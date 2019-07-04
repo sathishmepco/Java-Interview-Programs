@@ -4,9 +4,9 @@ public class AllCombinationsOfBrackets {
 	
 	static int count = 0;
 	public static void main(String[] args) {
-		brackets(3, 0, "");
-		bracketsCount(3, 0, "");
-		System.out.println(count);
+		brackets(4, 0, "");
+		bracketsCount(4, 0, "");
+		System.out.println("Count is :: "+count);
 	}
 	
 	public static void brackets(int openStack,int closeStack, String s ){
@@ -27,3 +27,35 @@ public class AllCombinationsOfBrackets {
 			bracketsCount(openStack, closeStack-1, s+")");
 	}
 }
+
+/*
+Input
+3
+Output
+((()))
+(()())
+(())()
+()(())
+()()()
+Count is :: 5
+
+Input
+4
+Output
+(((())))
+((()()))
+((())())
+((()))()
+(()(()))
+(()()())
+(()())()
+(())(())
+(())()()
+()((()))
+()(()())
+()(())()
+()()(())
+()()()()
+Count is :: 14
+*/
+
