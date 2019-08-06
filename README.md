@@ -5,4 +5,5 @@
 3.  Write a program to find sum of all the digits of a given number.
 4.  Find the second largest number in the given array.
 5.  Find the second minimum number in the given array.
-
+6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
+7.  Write a program to find the intersection of two arrays.
