@@ -7,3 +7,6 @@
 5.  Find the second minimum number in the given array.
 6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 7.  Write a program to find the intersection of two arrays.
+8.  Write a java program to print the Fibonacci Series upto N number.
+9.  Write a java program to print Prime Numbers from 1 to N.
+10. Write a java program to check whether given number is Armstrong Number or not.
