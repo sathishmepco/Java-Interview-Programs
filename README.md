@@ -13,3 +13,6 @@
 11. Write a java program to convert Binary number to Decimal number?
 12. Write a java program to convert Decimal number to Binary number?
 13. Find the missing Number in the given array of 1 to N.
+14. Write a java program to Reverse an Array.
+15. Swap two Strings without using third (temporary) variable.
+
