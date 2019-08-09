@@ -14,5 +14,12 @@
 12. Write a java program to convert Decimal number to Binary number?
 13. Find the missing Number in the given array of 1 to N.
 14. Write a java program to Reverse an Array.
-15. How to Swap two Strings without using third (temporary) variable?
+15. Write a java program to Reverse a given number.
+16. Write a java program to swap two numbers without using third variable.
 
+# String Based Programs
+1.  Write a java program to check the given String is Palindrome or not.
+2.  How to Swap two Strings without using third (temporary) variable?
+3.  Write a java program to reverse a String without using in-build function.
+4.  Write a java program to count the number of words in a given String. 
+5.  Write a java program to remove all White Spaces in the given String.
