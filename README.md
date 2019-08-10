@@ -23,3 +23,10 @@
 3.  Write a java program to reverse a String without using in-build function.
 4.  Write a java program to count the number of words in a given String. 
 5.  Write a java program to remove all White Spaces in the given String.
+
+# Sorting
+1.  Bubble Sort
+2.  Quick Sort
+3.  Selection Sort
+4.  Insertion Sort 
+5.  Merge Sort
