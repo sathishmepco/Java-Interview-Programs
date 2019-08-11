@@ -30,3 +30,7 @@
 3.  Selection Sort
 4.  Insertion Sort 
 5.  Merge Sort
+
+# Searching
+1.  Linear Search
+2.  Binary Search
