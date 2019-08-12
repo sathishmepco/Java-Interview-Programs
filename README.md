@@ -33,4 +33,4 @@
 
 # Searching
 1.  Linear Search <a href="InterviewPrograms/src/com/algorithm/search/LinearSearch.java" target="_blank"> [Solution] </a>
-2.  Binary Search
+2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
