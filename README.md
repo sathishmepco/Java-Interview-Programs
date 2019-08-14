@@ -27,7 +27,7 @@
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
 2.  Quick Sort <a href="InterviewPrograms/src/com/algorithm/sorting/QuickSort.java" target="_blank"> [Solution] </a>
-3.  Selection Sort
+3.  Selection Sort <a href="InterviewPrograms/src/com/algorithm/sorting/SelectionSort.java" target="_blank"> [Solution] </a>
 4.  Insertion Sort 
 5.  Merge Sort
 
