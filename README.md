@@ -29,7 +29,7 @@
 2.  Quick Sort <a href="InterviewPrograms/src/com/algorithm/sorting/QuickSort.java" target="_blank"> [Solution] </a>
 3.  Selection Sort <a href="InterviewPrograms/src/com/algorithm/sorting/SelectionSort.java" target="_blank"> [Solution] </a>
 4.  Insertion Sort <a href="InterviewPrograms/src/com/algorithm/sorting/InsertionSort.java" target="_blank"> [Solution] </a>
-5.  Merge Sort
+5.  Merge Sort <a href="InterviewPrograms/src/com/algorithm/sorting/MergeSort.java" target="_blank"> [Solution] </a>
 
 # Searching
 1.  Linear Search <a href="InterviewPrograms/src/com/algorithm/search/LinearSearch.java" target="_blank"> [Solution] </a>
