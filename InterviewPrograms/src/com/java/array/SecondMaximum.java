@@ -3,6 +3,13 @@ package com.java.array;
 import java.util.Arrays;
 
 //This code will return second maximum in an array
+/*
+ * say Given Array is {10,32,34,54,19,29,38,45}
+ * max is 54, second max is 45
+ * 
+ * say Given Array is {10,20,30,40,50,60,70,80}
+ * max is 80, second max is 70
+ */
 public class SecondMaximum {
 	
 	public static void main(String[] args) {
@@ -31,3 +38,13 @@ public class SecondMaximum {
 		System.out.println("Second max value in the array is : "+secondMax);
 	}
 }
+
+/*
+
+OUTPUT
+
+Given array is : [10, 32, 34, 54, 19, 29, 38, 45]
+Max value in the array is : 54
+Second max value in the array is : 45
+
+*/
