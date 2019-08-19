@@ -3,7 +3,7 @@
 1.  Write a program to find the Most Frequent Element in an given array.
 2.  Write a program to find out Duplicate Element in an given array.
 3.  Write a program to find sum of all the digits of a given number. <a href="InterviewPrograms/src/com/java/numbers/SumOfDigits.java" target="_blank"> [Solution] </a>
-4.  Find the second largest number in the given array. [Solution](https://github.com/sathishmepco/CoreJava-Projects/blob/master/InterviewPrograms/src/com/java/array/SecondMaximum.java)
+4.  Find the second largest number in the given array. [[Solution]](https://github.com/sathishmepco/CoreJava-Projects/blob/master/InterviewPrograms/src/com/java/array/SecondMaximum.java)
 5.  Find the second minimum number in the given array.
 6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 7.  Write a program to find the intersection of two arrays.
