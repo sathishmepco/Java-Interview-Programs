@@ -24,6 +24,7 @@
 3.  Write a java program to reverse a String without using in-build function.
 4.  Write a java program to count the number of words in a given String. 
 5.  Write a java program to remove all White Spaces in the given String.
+6. Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
