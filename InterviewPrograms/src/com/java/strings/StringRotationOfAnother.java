@@ -32,7 +32,7 @@ public class StringRotationOfAnother {
 		if(str1.length() != str2.length())
 			return false;
 		
-		//adding both string
+		//add string 1 with string 1 itself, it helps to identify its rotation
 		str1 = str1 + str1;
 		
 		if(str1.contains(str2))
