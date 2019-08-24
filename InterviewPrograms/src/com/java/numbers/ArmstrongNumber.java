@@ -30,11 +30,14 @@ public class ArmstrongNumber {
 		int tempNum = num;
 		
 		while( num > 0 ){
+			//get the unit digits of the number
 			int digit = num % 10;
+			//sum the cubes of the unit digit
 			digitsSum += digit * digit * digit;
 			num = num / 10;
 		}
 				
+		//check sum of the cubes of digits is equal to the number
 		if(digitsSum == tempNum)
 			return true;
 		return false;
