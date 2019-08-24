@@ -14,7 +14,7 @@
 12. Write a java program to convert Decimal number to Binary number?
 13. Find the missing Number in the given array of 1 to N.
 14. Write a java program to Reverse an Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
-15. Write a java program to Reverse a given number.
+15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 16. Write a java program to swap two numbers without using third variable.
 17. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 
