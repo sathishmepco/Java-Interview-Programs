@@ -9,7 +9,7 @@
 7.  Write a program to find the intersection of two arrays.
 8.  Write a java program to print the Fibonacci Series upto N number.
 9.  Write a java program to print Prime Numbers from 1 to N.
-10. Write a java program to check whether given number is Armstrong Number or not.
+10. Write a java program to check whether given number is Armstrong Number or not.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
 11. Write a java program to convert Binary number to Decimal number?
 12. Write a java program to convert Decimal number to Binary number?
 13. Find the missing Number in the given array of 1 to N.
