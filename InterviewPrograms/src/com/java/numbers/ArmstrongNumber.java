@@ -1,0 +1,55 @@
+package com.java.numbers;
+
+import java.util.Scanner;
+
+/*
+ * Armstrong Number
+ * A positive number is called armstrong number if it is equal to the 
+ * sum of cubes of its digits 
+ * for example 0, 1, 153, 370, 371, 407 etc.
+ * 
+ * 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+ * 370 = 3^3 + 7^3 + 0^3 = 27 + 343 + 0 = 370 
+ */
+public class ArmstrongNumber {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter any positive number :: ");
+		int num = Integer.parseInt(scanner.nextLine().trim());
+
+		if( checkArmstrongNumber(num) == true )
+			System.out.println("The given number "+num+" is a Armsrong Number.");
+		else
+			System.out.println("The given number "+num+" is NOT a Armsrong Number.");
+		scanner.close();
+	}
+	
+	private static boolean checkArmstrongNumber(int num){
+		int digitsSum = 0;
+		int tempNum = num;
+		
+		while( num > 0 ){
+			int digit = num % 10;
+			digitsSum += digit * digit * digit;
+			num = num / 10;
+		}
+				
+		if(digitsSum == tempNum)
+			return true;
+		return false;
+	}
+}
+/*
+	OUTPUT
+
+	Enter any positive number :: 153
+	The given number 153 is a Armsrong Number.
+	
+	Enter any positive number :: 370
+	The given number 153 is a Armsrong Number.
+
+	Enter any positive number :: 500
+	The given number 500 is NOT a Armsrong Number.
+	
+*/
