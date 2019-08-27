@@ -25,8 +25,8 @@
 4.  Write a java program to count the number of words in a given String. 
 5.  Write a java program to remove all White Spaces in the given String.
 6. Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
-7. Write a Java Program to check Given String is Anagram or NOT.
-8. Write a java program to check Given String is Palindrome or NOT
+7. Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
+8. Write a java program to check Given String is Palindrome or NOT.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
