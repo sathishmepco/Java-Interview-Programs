@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Palindrome
  * A String is a palindrome if it is remain unchanged even when it is reversed.
  * A String is a palindrome if it equals to the reverse of the string 
+ * example words are :: malayalam, radar, madam
  */
 public class Palindrome {
 	
@@ -52,6 +53,6 @@ public class Palindrome {
 	The Given String "sathish" is NOT a Palindrome
 	
 	Enter any String to check Palindrome or not :: java
-	The Given String "sathish" is NOT a Palindrome
+	The Given String "java" is NOT a Palindrome
 
 */
