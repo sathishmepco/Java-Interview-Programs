@@ -109,3 +109,5 @@
 68. When we should use socket and rmi?
 69. How will you write code for linkedlist in java?
 70. What is wrapper class? What is need of it?
+
+
