@@ -17,6 +17,7 @@
 15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 16. Write a java program to swap two numbers without using third variable.
 17. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+18. Write a java program to LCM of a TWO given number.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
