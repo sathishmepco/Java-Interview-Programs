@@ -22,7 +22,7 @@
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
 2.  How to Swap two Strings without using third (temporary) variable? [[Solution]](InterviewPrograms/src/com/java/strings/SwapTwoStrings.java)
-3.  Write a java program to reverse a String without using in-build function.
+3.  Write a java program to reverse a String without using in-build function. [[Solution]](InterviewPrograms/src/com/java/strings/ReverseString.java)
 4.  Write a java program to count the number of words in a given String. 
 5.  Write a java program to remove all White Spaces in the given String.
 6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
