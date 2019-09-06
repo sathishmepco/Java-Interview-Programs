@@ -28,6 +28,7 @@
 6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
 7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
 8.  Write a Java program to find the maximum occuring character in given String.
+9.  Write a Java program to print all the Permutations of a String.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
