@@ -29,6 +29,7 @@
 7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
 8.  Write a Java program to find the maximum occuring character in given String.
 9.  Write a Java program to print all the Permutations of a String.
+10. How do you count the number of words in a Given String?
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
