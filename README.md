@@ -19,6 +19,7 @@
 17. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 18. Write a java program to LCM of a TWO given number.
 19. How to Swap two numbers without using third variable? 
+20. How to check if two rectangles overlap with each other?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
