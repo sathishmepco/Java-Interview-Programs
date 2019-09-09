@@ -21,7 +21,11 @@
 19. How to Swap two numbers without using third variable? 
 20. How to check if two rectangles overlap with each other?
 21. How to check if a given number is a Palindrome?
-
+22. How do check if a given number is positive or negative in Java?
+23. Write a Program to print Floyd's triangle?
+24. Write a Program to print Pascal's triangle?
+25. How to add two numbers without using the plus operator in Java?
+26. Write a Program to subtract two binary numbers?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
