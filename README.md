@@ -50,6 +50,11 @@
 1.  Linear Search <a href="InterviewPrograms/src/com/algorithm/search/LinearSearch.java" target="_blank"> [Solution] </a>
 2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
 
+# Matrix
+1. Write a Program to transpose a Matrix?
+2. Write a Program to add or subtract two Matrices?
+3. Write a Program to multiply two Matrices in Java?
+
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
