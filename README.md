@@ -20,6 +20,8 @@
 18. Write a java program to LCM of a TWO given number.
 19. How to Swap two numbers without using third variable? 
 20. How to check if two rectangles overlap with each other?
+21. How to check if a given number is a Palindrome?
+
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
