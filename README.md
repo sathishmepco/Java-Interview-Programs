@@ -50,7 +50,7 @@
 
 # Matrix
 1. Write a Program to transpose a Matrix? [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
-2. Write a Program to add or subtract two Matrices?
+2. Write a Program to add or subtract two Matrices? [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
 3. Write a Program to multiply two Matrices in Java?
 
 # Pattern Questions
