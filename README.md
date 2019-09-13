@@ -25,6 +25,7 @@
 23. How to add two numbers without using the plus operator in Java?
 24. Write a Program to subtract two binary numbers?
 25. Write a Java Program to Print 1 To 10 Without Using Loop.
+26. Write a Java Program to move all zero to end of the Array.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
