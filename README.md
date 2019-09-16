@@ -75,6 +75,15 @@
           5 5 5 5 5
           6 6 6 6 6 6
 ```
+4. Write a Java Program to print the following Pattern.
+```
+          6 5 4 3 2 1
+          6 5 4 3 2 
+          6 5 4 3 
+          6 5 4
+          6 5
+          6
+```
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
