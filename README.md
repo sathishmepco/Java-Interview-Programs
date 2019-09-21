@@ -57,7 +57,7 @@
 4. Write a Java Program to print the Matrix Spiral form.
 
 # Pattern Questions
-1. Write a Program to print Floyd's triangle?
+1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
 	1 
 	2 3 
