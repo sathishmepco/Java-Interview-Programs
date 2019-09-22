@@ -67,7 +67,7 @@
 	16 17 18 19 20 21 
 ```
 2. Write a Program to print Pascal's triangle?
-3. Write a Java Program to print the following Pattern
+3. Write a Java Program to print the following Pattern [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern1.java)
 ```
           1
           1 2
