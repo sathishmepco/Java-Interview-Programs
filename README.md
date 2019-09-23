@@ -76,7 +76,7 @@
           1 2 3 4 5
           1 2 3 4 5 6
 ```
-4. Write a Java Program to print the following Pattern.
+4. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern2.java)
 ```
           1
           2 2
