@@ -140,6 +140,15 @@
 	  2 3 4 5 6
 	1 2 3 4 5 6
 ```
+9. Write a Java Program to print the following Pattern.
+```
+	1
+	2 1
+	3 2 1
+	4 3 2 1
+	5 4 3 2 1 
+	6 5 4 3 2 1
+```
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
