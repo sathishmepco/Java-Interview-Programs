@@ -94,7 +94,7 @@
           6 5
           6
 ```
-5. Write a Java Program to print the following Pattern.
+5. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern4.java)
 ```
           1 2 3 4 5 6
           1 2 3 4 5
