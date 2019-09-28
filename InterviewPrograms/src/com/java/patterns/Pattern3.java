@@ -19,9 +19,9 @@ public class Pattern3 {
 		int N = Integer.parseInt(scanner.nextLine().trim());
 		
 		//logic to print the pattern
-		for(int i=N; i>=1; i--){
-			for(int j=1, value=N; j<=i; j++, value--)
-				System.out.print(value+" ");
+		for(int i=1; i<=N; i++){
+			for(int j=N; j>=i; j--)
+				System.out.print(j+" ");
 			System.out.println();
 		}
 		
