@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * 	Write a Java Program to print the following Pattern
 	1
-    1 2 1
+	1 2 1
     1 2 3 2 1
     1 2 3 4 3 2 1
     1 2 3 4 5 4 3 2 1
