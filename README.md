@@ -103,7 +103,7 @@
           1 2
           1
 ```
-6. Write a Java Program to print the following Pattern.
+6. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern5.java)
 ```
           1
           1 2 1
