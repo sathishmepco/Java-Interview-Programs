@@ -158,6 +158,15 @@
 	1 0 1 0 1
 	1 0 1 0 1 0 
 ```
+11. Write a Java Program to print the following Pattern.
+```
+	1 1 1 1 1 1
+	1 1 1 1 2 2
+	1 1 1 3 3 3
+	1 1 4 4 4 4
+	1 5 5 5 5 5
+	6 6 6 6 6 6
+```
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
