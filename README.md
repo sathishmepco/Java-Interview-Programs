@@ -240,4 +240,6 @@
 70. What is wrapper class? What is need of it?
 71. What are the various access specifiers for Java classes?
 72. What's the purpose of Static methods and static variables?
-
+73. What is data encapsulation and what's its significance?
+74. What is a singleton class? Give a practical example of its usage.
+75. What are Loops in Java? What are three types of loops?
