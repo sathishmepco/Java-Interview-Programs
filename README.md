@@ -56,6 +56,13 @@
 3. Write a Program to multiply two Matrices in Java?
 4. Write a Java Program to print the Matrix Spiral form.
 
+# Print the Series
+1. Write the Java Program to print the following series
+```
+3, 33, 333, 3333, 33333, 333333 ....
+```
+
+
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
