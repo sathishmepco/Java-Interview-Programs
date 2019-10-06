@@ -161,7 +161,7 @@
 	  2 3 4 5 6
 	1 2 3 4 5 6
 ```
-9. Write a Java Program to print the following Pattern.
+9. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern8.java)
 ```
 	1
 	2 1
