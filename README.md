@@ -170,7 +170,7 @@
 	5 4 3 2 1 
 	6 5 4 3 2 1
 ```
-10. Write a Java Program to print the following Pattern.
+10. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern9.java)
 ```
 	1
 	1 0
