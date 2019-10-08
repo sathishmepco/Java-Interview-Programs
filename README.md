@@ -57,26 +57,31 @@
 4. Write a Java Program to print the Matrix Spiral form.
 
 # Print the Series
-1. Write the Java Program to print the following series
+1. Write the Java Program to print the following series (ODD number series)
 ```
-3, 33, 333, 3333, 33333, 333333 ....
+1 3 5 7 9 11 13 ....
 ```
 2. Write the Java Program to print the following series
 ```
-10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1 10
+3, 33, 333, 3333, 33333, 333333 ....
 ```
 3. Write the Java Program to print the following series
 ```
-1 2 4 7 11 16 22 29 .....
+10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1 10
 ```
 4. Write the Java Program to print the following series
 ```
-1 2 3 2 3 4 3 4 5 4 5 4 5 6 5 6 5 6 7 ....
+1 2 4 7 11 16 22 29 .....
 ```
 5. Write the Java Program to print the following series
 ```
+1 2 3 2 3 4 3 4 5 4 5 4 5 6 5 6 5 6 7 ....
+```
+6. Write the Java Program to print the following series
+```
 1 2 9 28 65 126 217 344
 ```
+
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
