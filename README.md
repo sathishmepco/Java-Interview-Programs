@@ -57,7 +57,7 @@
 4. Write a Java Program to print the Matrix Spiral form.
 
 # Print the Series
-1. Write the Java Program to print the following series (EVEN number series)
+1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
 ```
 2 4 6 8 10 12 14 16 .....
 ```
