@@ -26,6 +26,7 @@
 24. Write a Program to subtract two binary numbers?
 25. Write a Java Program to Print 1 To 10 Without Using Loop.
 26. Write a Java Program to move all zero to end of the Array.
+27. Write a Java Program to find LCM of two given numbers.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -57,7 +58,7 @@
 4. Write a Java Program to print the Matrix Spiral form.
 
 # Print the Series
-1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
+1. Write the Java Program to print the following series (EVEN number series)
 ```
 2 4 6 8 10 12 14 16 .....
 ```
