@@ -86,10 +86,15 @@
 ```
 1 2 9 28 65 126 217 344
 ```
-7. Write the Java Program to print the following series (Geometric progression)
+8. Write the Java Program to print the following series (Geometric progression)
 ```
 2 4 8 16 32 64 128 256 512 1024 ......
 ```
+9. Write the Java Program to print the following series (Arithmetic progression)
+```
+0 5 10 15 20 25 30 35 ....
+```
+
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
