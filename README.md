@@ -94,7 +94,10 @@
 ```
 0 5 10 15 20 25 30 35 ....
 ```
-
+10. Write the Java Program to print the following series (Fibonacci Series)
+```
+1 1 2 3 5 8 13 21 34 55 89 .....
+```
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
