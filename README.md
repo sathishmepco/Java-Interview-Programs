@@ -98,6 +98,10 @@
 ```
 1 1 2 3 5 8 13 21 34 55 89 .....
 ```
+11. Write the Java Program to print the following series (Prime Number Series)
+```
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
+```
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
