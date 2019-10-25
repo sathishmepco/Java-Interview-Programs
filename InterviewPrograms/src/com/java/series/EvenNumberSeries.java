@@ -1,4 +1,4 @@
-package com.techgig.series;
+package com.java.series;
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ import java.util.Scanner;
  * i starts with value 0
  */
 public class EvenNumberSeries {
-	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the N(end value) value for even number series : ");
