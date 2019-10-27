@@ -6,9 +6,9 @@ import java.util.Scanner;
  * 
  * 3 33 333 3333 33333 333333 .....
  * 
- * In the for loop, either use i++, check i is even and print
- * Else in the for loop use i+=2 then print i value
- * i starts with value 0
+ * Best approach
+ * Use String variable and starts with 3, and append 3 for every iteration
+ * 
  */
 public class PatternSeries {
 	public static void main(String[] args) {
