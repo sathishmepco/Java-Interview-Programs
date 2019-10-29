@@ -62,7 +62,7 @@
 ```
 2 4 6 8 10 12 14 16 .....
 ```
-2. Write the Java Program to print the following series (ODD number series)
+2. Write the Java Program to print the following series (ODD number series) [[Solution]](InterviewPrograms/src/com/java/series/OddNumberSeries.java)
 ```
 1 3 5 7 9 11 13 ....
 ```
