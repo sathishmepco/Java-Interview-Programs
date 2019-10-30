@@ -66,7 +66,7 @@
 ```
 1 3 5 7 9 11 13 ....
 ```
-3. Write the Java Program to print the following series
+3. Write the Java Program to print the following series (Pattern Series) [[Solution]](InterviewPrograms/src/com/java/series/PatternSeries.java)
 ```
 3, 33, 333, 3333, 33333, 333333 ....
 ```
