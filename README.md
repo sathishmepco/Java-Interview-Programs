@@ -70,7 +70,7 @@
 ```
 3, 33, 333, 3333, 33333, 333333 ....
 ```
-4. Write the Java Program to print the following series
+4. Write the Java Program to print the following series [[Solution]](InterviewPrograms/src/com/java/series/AlternateTenSeries.java)
 ```
 10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1 10
 ```
