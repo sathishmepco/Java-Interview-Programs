@@ -40,6 +40,7 @@
 9.  Write a Java program to print all the Permutations of a String.
 10. How do you count the number of words in a Given String?
 11. Write a Java Program to generate all combinatinos of a Given String.
+12. Write a Java Program to print all permutatinos of a Given String.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
