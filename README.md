@@ -104,6 +104,11 @@
 ```
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
 ```
+12. Write the Java Program to print the following series (Triangular Number Series)
+```
+1 3 6 10 15 21 28 36 45 55 .....
+```
+
 # Pattern Questions
 1. Write a Program to print Floyd's triangle? [[Solution]](InterviewPrograms/src/com/java/patterns/FloydsTriangle.java)
 ```
