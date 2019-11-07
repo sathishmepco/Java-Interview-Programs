@@ -11,6 +11,7 @@ public class StudentMain {
 			System.out.println("Student name is :"+s.getName());
 		} catch (StudentNotFoundException e) {
 			System.out.println(e.getMessage());
+			e.printStackTrace();
 		}
 	}
 }
