@@ -17,21 +17,22 @@ public class LinkedListDemo {
 		//ADD AT GIVEN INDEX
 		osList.add(1, "MacOS");
 		
-		//ADD USIGN SPECIAL METHODS
+		//ADD USING SPECIAL METHODS
 		osList.addFirst("Linux");
 		osList.addLast("WebOS");
-
 		
 		//GET ELEMENT
 		String firstElt = osList.getFirst();
 		String lastElt = osList.getLast();
 		String eltAtZero = osList.get(0);
 		
-		//GET ELEMETNS USING PEEK AND POLL
+		//GET ELEMENTS USING PEEK AND POLL
+		//PEEK MEANS RETRIEVES THE ELEMENTS BUT DOES NOT REMOVE THE ELEMENT
 		System.out.println("Peek : "+osList.peek());
 		System.out.println("Peek First : "+osList.peekFirst());
 		System.out.println("Peek Last : "+osList.peekLast());
 		
+		//POLL MEANS RETRIEVES AND REMOVES THE FIRST ELEMENT
 		System.out.println("Poll : "+osList.poll());
 		System.out.println("Poll First : "+osList.pollFirst());
 		System.out.println("Poll Last : "+osList.pollLast());
@@ -45,6 +46,11 @@ public class LinkedListDemo {
 		while(listIterator.hasNext()){
 			String element = listIterator.next();
 			System.out.println(element);
+
+			//OTHER AVAILABLE METHODS
+			//listIterator.previous();
+			//listIterator.hasPrevious();
+			//listIterator.previousIndex();
 		}		
 		
 		//Removes first Element
