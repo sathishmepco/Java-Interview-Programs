@@ -20,7 +20,7 @@ public class ArrayListDemo {
 		int size = osList.size();
 		System.out.println("Size of the list is : "+size);
 		
-		//DISPLAY THE LEMENTS USIGN FOR LLOP
+		//DISPLAY THE ELEMENTS USING 'FOR' LOOP
 		for(int i=0;i<osList.size();i++)
 			System.out.println("Item at "+i+" is "+osList.get(i));
 		
