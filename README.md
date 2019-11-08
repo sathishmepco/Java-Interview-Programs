@@ -39,7 +39,7 @@
 8.  Write a Java program to find the maximum occuring character in given String.
 9.  Write a Java program to print all the Permutations of a String.
 10. How do you count the number of words in a Given String?
-11. Write a Java Program to generate all combinatinos of a Given String.
+11. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
 12. Write a Java Program to print all permutatinos of a Given String.
 
 # Sorting
