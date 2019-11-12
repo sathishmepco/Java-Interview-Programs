@@ -3,6 +3,7 @@ package com.cdac.collections.map;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map.Entry;
 import java.util.Set;
 
 public class HashMapDemo {
@@ -45,6 +46,13 @@ public class HashMapDemo {
 		while(keyIterator.hasNext()){
 			Integer key = keyIterator.next();
 			System.out.println(key);
+		}
+		
+		System.out.println("All the records :: ");
+		Iterator<Entry<Integer, String>> iterator = map.entrySet().iterator();
+		while(iterator.hasNext()){
+			Entry<Integer, String>	entry = iterator.next();
+			System.out.println("Key is : "+entry.getKey()+" value is :"+entry.getValue());
 		}
 		
 		//READ ALL THE VALUES

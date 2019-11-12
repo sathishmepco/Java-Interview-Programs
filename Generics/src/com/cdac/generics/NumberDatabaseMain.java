@@ -1,5 +1,7 @@
 package com.cdac.generics;
 
+import java.util.HashMap;
+
 public class NumberDatabaseMain {
 	public static void main(String[] args) {
 		
@@ -15,8 +17,9 @@ public class NumberDatabaseMain {
 		longDatabase.set(1200000000L);
 		System.out.println("Long from database : "+longDatabase.get());
 		
-//		NumberDatabase<String> stringDatabase = new NumberDatabase<>();
+		//NumberDatabase<String> stringDatabase = new NumberDatabase<>();
 		//the above code will throw error
 		//String class is not derived from Number class
+		
 	}
 }
