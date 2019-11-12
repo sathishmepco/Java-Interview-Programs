@@ -9,13 +9,13 @@ public class Factory {
 		synchronized (lock) {
 			System.out.println("Producer is called");
 			while(current < 3){
+				current++;
 				System.out.println("Producing the Item : "+current);
 				try {
 					Thread.sleep(1000);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
-				current++;
 			}
 			System.out.println("Production is done!");
 			lock.notifyAll();
@@ -27,7 +27,7 @@ public class Factory {
 			System.out.println("Consumer is called !");
 			try {
 				if(current <= 0 ){
-					System.out.println("Capacity is less than 3, going to wait state");
+					System.out.println("No item is available to consume, going to wait state");
 					lock.wait();
 				}
 			} catch (InterruptedException e) {
