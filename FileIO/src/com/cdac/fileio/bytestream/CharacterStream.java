@@ -4,11 +4,12 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.CharBuffer;
 
 public class CharacterStream {
 	
 	public static void main(String[] args) throws IOException {
-		String content = "Hi Good morning!";
+		String content = "Hi -1 Good morning!";
 		writeToFile(content);
 		readFromFile();
 	}
@@ -35,11 +36,14 @@ public class CharacterStream {
 		FileReader fileReader = null;
 		try {
 			fileReader = new FileReader(filePath);
-			int i;
+			/*int i;
 			while ( (i = fileReader.read()) != -1){
 				char ch = (char) i;
 				System.out.print(ch);
-			}
+			}*/
+			CharBuffer buffer = null;
+			fileReader.read(buffer);
+			System.out.println(buffer.toString());
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

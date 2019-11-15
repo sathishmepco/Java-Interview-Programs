@@ -1,6 +1,6 @@
 package com.cdac.collections.bean;
 
-public class Student implements Comparable<Student>{
+public class Student implements Comparable<Student>,Cloneable{
 	
 	private int rollNo;
 	private String name;
@@ -52,5 +52,10 @@ public class Student implements Comparable<Student>{
 		return this.rollNo - o.rollNo;
 		//DECREASING ORDER BY ROLL NO
 //		return o.rollNo - this.rollNo ;
+	}
+	
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+		return super.clone();
 	}
 }

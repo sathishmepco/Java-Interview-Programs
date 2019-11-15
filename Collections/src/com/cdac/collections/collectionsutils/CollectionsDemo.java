@@ -15,25 +15,41 @@ public class CollectionsDemo {
 		list.add("One");
 		list.add("Two");
 		list.add("One");
+		System.out.println("Initial List");
+		System.out.println(list);
 		
 		Set<String> set = new HashSet<>();
 		set.add("Three");
 		set.add("Four");
 		set.add("One");
-		
+		System.out.println("Initial Set");
 		System.out.println(set);
+		
+		//Adding all list elements to Set Collection
 		set.addAll(list);
+		System.out.println("Adding list to set collection");
 		System.out.println(set);
 		
+		//Adding array values to List Collection
+		String strArray[] = {"ABC","acb"};
+		Collections.addAll(list, strArray);
+		System.out.println("Adding Array values to List collection ");
+		System.out.println(list);
+
+		//sorting the List Collection
 		Collections.sort(list);
-		System.out.println("Sort : "+list);
+		System.out.println("Sorting the List : ");
+		System.out.println(list);
+		
+		//sorting the list with comparator - reverse order
 		Collections.sort(list, Collections.reverseOrder());
-		System.out.println("Reverse Order : "+list);
+		System.out.println("Reverse Order : ");
+		System.out.println(list);
 		
 		String max = Collections.max(list);
-		System.out.println("Max : "+max);
+		System.out.println("Max Element in the List : "+max);
 		String min = Collections.min(list);
-		System.out.println("Min : "+min);
+		System.out.println("Min Element in the List : "+min);
 		
 		List<Integer> iList = new ArrayList<>();
 		iList.add(10);
@@ -69,5 +85,7 @@ public class CollectionsDemo {
 
 		Map<Integer, String> map = new HashMap<>();
 		map = Collections.synchronizedMap(map);
+		
+		
 	}
 }
