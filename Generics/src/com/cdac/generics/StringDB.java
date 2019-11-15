@@ -12,6 +12,7 @@ public class StringDB {
 		
 		Database<Date> date = new Database<>();
 		date.set(new Date());
+		Date dd = date.get();
 //		String abc = (String)date.get();  // not ok
 	}
 
