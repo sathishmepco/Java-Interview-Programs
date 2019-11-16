@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.CharBuffer;
 
 public class CharacterStream {
@@ -36,14 +37,12 @@ public class CharacterStream {
 		FileReader fileReader = null;
 		try {
 			fileReader = new FileReader(filePath);
-			/*int i;
+			int i;
 			while ( (i = fileReader.read()) != -1){
 				char ch = (char) i;
 				System.out.print(ch);
-			}*/
-			CharBuffer buffer = null;
-			fileReader.read(buffer);
-			System.out.println(buffer.toString());
+			}
+			
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
