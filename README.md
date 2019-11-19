@@ -27,6 +27,7 @@
 25. Write a Java Program to Print 1 To 10 Without Using Loop.
 26. Write a Java Program to move all zero to end of the Array.
 27. Write a Java Program to find LCM of two given numbers.
+28. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
