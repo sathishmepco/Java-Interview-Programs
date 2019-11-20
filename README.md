@@ -222,7 +222,7 @@
 ```
 
 # Brackets or Parentheses Problems
-1. Write a Java Program to find out the given string is ** Balanced Parentheses ** or NOT?
+1. Write a Java Program to find out the given string is **Balanced Parentheses** or NOT?
 ```
 	()() 	- VALID
 	(()) 	- VALID
