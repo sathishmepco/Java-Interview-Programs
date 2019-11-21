@@ -229,6 +229,15 @@
 	())( 	- INVALID
 	((	- INVALID
 ```
+2. Generate Balanced Parentheses of N pairs.
+```
+	N = 2		N= 3
+	()()		()()()
+	(())		(())()
+			()(())
+			(()())
+			((()))
+```
 
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
