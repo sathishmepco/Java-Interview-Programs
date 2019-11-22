@@ -238,6 +238,18 @@
 			(()())
 			((()))
 ```
+3. Generate All possible combinations of Parentheses.
+```
+	N = 2		N= 3
+	()		()
+	()()		()()
+	(())		(())
+			()()()
+			(())()
+			()(())
+			(()())
+			((()))
+```
 
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
