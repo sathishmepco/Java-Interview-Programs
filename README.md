@@ -250,7 +250,19 @@
 			(()())
 			((()))
 ```
-
+4. Count the Number of possible combinations of Parentheses.
+```
+	N = 2		N= 3
+	()		()
+	()()		()()
+	(())		(())
+	Output = 3	()()()
+			(())()
+			()(())
+			(()())
+			((()))
+			Output = 8
+```
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
