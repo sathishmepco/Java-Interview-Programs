@@ -220,6 +220,49 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
+
+# Brackets or Parentheses Problems
+1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT?
+```
+	()() 	- VALID
+	(()) 	- VALID
+	())( 	- INVALID
+	((	- INVALID
+```
+2. Generate Balanced Parentheses of N pairs.
+```
+	N = 2		N= 3
+	()()		()()()
+	(())		(())()
+			()(())
+			(()())
+			((()))
+```
+3. Generate All possible combinations of Parentheses.
+```
+	N = 2		N= 3
+	()		()
+	()()		()()
+	(())		(())
+			()()()
+			(())()
+			()(())
+			(()())
+			((()))
+```
+4. Count the Number of possible combinations of Parentheses.
+```
+	N = 2		N= 3
+	()		()
+	()()		()()
+	(())		(())
+	Output = 3	()()()
+			(())()
+			()(())
+			(()())
+			((()))
+			Output = 8
+```
 # Java Interview Questions
 1.  What do you know about JVM, JRE and JDK?
 2.  Is JRE platform dependant or independent?
