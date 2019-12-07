@@ -5,7 +5,19 @@ import java.util.Scanner;
 /*
  * 		LEAP YEAR
  * 	This program is to check the given number is leap year or not.
- * 	
+ *
+ * 	Leap Year Conditions
+ * 1. Year should be divisible by 4
+ * 2. If it is divisible by 100 then should be divisible by 400
+ * 3. If both conditions are not satisfied, then given input is not leap year.
+ * 
+ * Example
+ * 2000	-	LEAP YEAR
+ * 2100	-	NOT A LEAP YEAR
+ * 2020	-	LEAP YEAR
+ * 2019	-	NOT A LEAP YEAR
+ * 1900	-	NOT A LEAP YEAR
+ * 1996	-	LEAP YEAR
  */
 public class LeapYear {
 	public static void main(String[] args) {
@@ -43,7 +55,7 @@ public class LeapYear {
 	No its not leap year. 
 
 	INPUT
-	Enter a year :: 2100
+	Enter a year :: 2019
 	OUTPUT
 	No its not leap year.
 
