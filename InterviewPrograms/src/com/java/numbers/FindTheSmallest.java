@@ -2,10 +2,10 @@ package com.java.numbers;
 
 import java.util.Scanner;
 /*
- * 		FIND THE SMALLEST WIHTOUT USING < OR > SYMBOL
+ * 		FIND THE SMALLEST WIHTOUT USING < AND > SYMBOL
  * 
  * 	Write a java program to find the smallest among a, b, c
- *  without using < or > symbol.
+ *  without using < AND > symbol.
  *  
  *  For comparing two numbers we need to use the relational operator.
  *  
