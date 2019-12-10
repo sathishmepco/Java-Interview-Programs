@@ -2,6 +2,32 @@ package com.java.strings;
 
 import java.util.Scanner;
 
+/*
+ * 		Combination
+ * 
+ * 	A combination is a selection of all or part of 
+ * a set of objects, without regard to the order in 
+ * which objects are selected.
+ *
+ * For example, suppose we have a set of 
+ * three letters: A, B, and C. We might ask how many ways 
+ * we can select 2 letters from that set. 
+ * Each possible selection would be an example of a combination. 
+ * The complete list of possible selections 
+ * would be: AB, AC, and BC.
+ * 
+ * When the order doesn't matter, it is a Combination.
+ * When the order does matter it is a Permutation.
+ * 
+ * Order does matter	Order doesn't matter
+		1 2 3
+		1 3 2
+		2 1 3
+		2 3 1				1 2 3
+		3 1 2
+		3 2 1	
+
+ */
 public class CombinationOfString {
 	
 	public static void main(String[] args) {
