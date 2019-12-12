@@ -230,7 +230,7 @@
 	())( 	- INVALID
 	((	- INVALID
 ```
-2. Generate Balanced Parentheses of N pairs.
+2. Generate Balanced Parentheses of N pairs. [[Solution]](InterviewPrograms/src/com/java/parentheses/GenerateBalancedParentheses.java)
 ```
 	N = 2		N= 3
 	()()		()()()
