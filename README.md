@@ -26,9 +26,8 @@
 24. Write a Program to subtract two binary numbers?
 25. Write a Java Program to Print 1 To 10 Without Using Loop.
 26. Write a Java Program to move all zero to end of the Array.
-27. Write a Java Program to find LCM of two given numbers.
-28. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-29. Write a Java Program to find whether given number is Leap year or NOT?
+27. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
+28. Write a Java Program to find whether given number is Leap year or NOT?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -42,6 +41,9 @@
 9. How do you count the number of words in a Given String?
 10. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
 11. Write a Java Program to print all permutatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/PermutationOfString.java)
+
+# Numbers
+1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
