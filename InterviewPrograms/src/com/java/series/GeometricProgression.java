@@ -59,11 +59,11 @@ public class GeometricProgression {
 	Enter the start value of the series : 2
 	Enter the common ratio : 2
 	Enter the value (N) for the series : 10
-	2 4 8 16 32 64 128 256 512 1024 2048  
+	OUTPUT :: 2 4 8 16 32 64 128 256 512 1024 2048  
 	
 	TEST CASE 2
 	Enter the start value of the series : 3
 	Enter the common ratio : 2
 	Enter the value (N) for the series : 10
-	3 6 12 24 48 96 192 384 768 1536 3072   
+	OUTPUT :: 3 6 12 24 48 96 192 384 768 1536 3072   
 */
