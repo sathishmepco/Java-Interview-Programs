@@ -3,15 +3,22 @@ package com.java.series;
 import java.util.Scanner;
 
 /*
- * 	Write Java program to generate the following Series
  *  Geometric Progression
- * 	2 4 8 16 32 64 128 256 512 1024 ......
- * 
+ *  
+ *  In mathematics, a geometric progression, also known 
+ *  as a geometric sequence, is a sequence of numbers 
+ *  where each term after the first is found by multiplying 
+ *  the previous one by a fixed, non-zero number called 
+ *  the common ratio. For example, 
+ *  the sequence 2, 6, 18, 54, ... is a geometric progression 
+ *  with common ratio 3.
+ *  
  * 	Geometric Progression Formula 
  *  current_valuie = previous_value × common_ratio
  *  Ai = A(i-1) * r
  *  
- *  In the above series
+ *  For the series
+ *  2 4 8 16 32 64 128 256 512 1024 ......
  *  start value is 2 
  *  ration is 2
  *  
