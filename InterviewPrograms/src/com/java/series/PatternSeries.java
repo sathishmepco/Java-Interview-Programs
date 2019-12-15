@@ -7,7 +7,8 @@ import java.util.Scanner;
  * 3 33 333 3333 33333 333333 .....
  * 
  * Best approach
- * Use String variable and starts with 3, and append 3 for every iteration
+ * Use String variable and starts with 3, 
+ * and append 3 for every iteration
  * 
  */
 public class PatternSeries {
