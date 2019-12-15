@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 	2 9 28 65 126 217 344
  * 
  * 	Solution is 
- *  result = i^3 + 1
+ *  i-th value = i^3 + 1 = (i*i*i)+1
  *  
  *  for values i = 1 to n
  *  1 = 1^3 + 1 = 2  
@@ -23,7 +23,7 @@ import java.util.Scanner;
 public class Series7 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the N value for the series : ");
+		System.out.println("Enter the value (N) for the series : ");
 		int N = Integer.parseInt(scanner.nextLine().trim());
 	
 		if(N <= 0){
@@ -41,10 +41,10 @@ public class Series7 {
 }
 /*
 	TEST CASE 1
-	Enter the N value for the series : 10
+	Enter the value (N) for the series : 10
 	2 9 28 65 126 217 344 513 730 1001 
 	
 	TEST CASE 2
-	Enter the N value for the series : 15
+	Enter the value (N) for the series : 15
 	2 9 28 65 126 217 344 513 730 1001 1332 1729 2198 2745 3376  
 */
