@@ -1,5 +1,7 @@
-# Interview Programs
+# Basic Programs
+1. Check the given number is EVEN or ODD.
 
+# Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
 2.  Write a program to find out Duplicate Element in an given array.
 3.  Write a program to find sum of all the digits of a given number. <a href="InterviewPrograms/src/com/java/numbers/SumOfDigits.java" target="_blank"> [Solution] </a>
