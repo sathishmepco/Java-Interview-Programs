@@ -1,6 +1,7 @@
 # Basic Programs
 1. Check the given number is EVEN or ODD.
 2. Write a Java Program to find the Factorial of given number.
+3. How to Swap two numbers without using third variable? 
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
@@ -18,10 +19,10 @@
 13. Find the missing Number in the given array of 1 to N.
 14. Write a java program to Reverse an Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
-16. Write a java program to swap two numbers without using third variable.
+16. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 17. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 18. Write a java program to LCM of a TWO given number.
-19. How to Swap two numbers without using third variable? 
+19. Write a Java Program to find whether given number is Leap year or NOT?
 20. How to check if two rectangles overlap with each other?
 21. How to check if a given number is a Palindrome?
 22. How do check if a given number is positive or negative in Java?
@@ -29,8 +30,7 @@
 24. Write a Program to subtract two binary numbers?
 25. Write a Java Program to Print 1 To 10 Without Using Loop.
 26. Write a Java Program to move all zero to end of the Array.
-27. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-28. Write a Java Program to find whether given number is Leap year or NOT?
+
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
