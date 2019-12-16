@@ -1,5 +1,6 @@
 # Basic Programs
 1. Check the given number is EVEN or ODD.
+2. Write a Java Program to find the Factorial of given number.
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
