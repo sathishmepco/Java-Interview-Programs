@@ -1,7 +1,8 @@
 # Basic Programs
 1. Check the given number is EVEN or ODD.
 2. Write a Java Program to find the Factorial of given number.
-3. How to Swap two numbers without using third variable? 
+3. Find the Factorail of a number using Recursion.
+4. How to Swap two numbers without using third variable? 
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
