@@ -1,7 +1,7 @@
 # Basic Programs
 1. Check the given number is EVEN or ODD.
 2. Write a Java Program to find the Factorial of given number.
-3. Find the Factorail of a number using Recursion.
+3. Find the Factorial of a number using Recursion.
 4. How to Swap two numbers without using third variable? 
 5. How to check the given number is positive or negative in Java?
 
