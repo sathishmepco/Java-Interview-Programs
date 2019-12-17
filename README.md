@@ -2,8 +2,10 @@
 1. Check the given number is EVEN or ODD.
 2. Write a Java Program to find the Factorial of given number.
 3. Find the Factorial of a number using Recursion.
-4. How to Swap two numbers without using third variable? 
-5. How to check the given number is positive or negative in Java?
+4. Swap two numbers without using third variable approach 1. 
+5. Swap two numbers without using third variable approach 2. 
+6. Swap two numbers without using third variable approach 3. 
+7. How to check the given number is positive or negative in Java?
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
