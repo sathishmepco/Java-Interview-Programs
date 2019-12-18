@@ -53,6 +53,9 @@
 5. Check whether the given number is Ramanujam's Number or NOT.
 6. Generate all the Kaprekar NUmber's less than 1000.
 
+# Array Based Programs
+1. Calculate the average of given array.
+
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
 2.  Quick Sort <a href="InterviewPrograms/src/com/algorithm/sorting/QuickSort.java" target="_blank"> [Solution] </a>
