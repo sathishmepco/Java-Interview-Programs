@@ -13,7 +13,7 @@
 1.  Write a program to find the Most Frequent Element in an given array.
 2.  Write a program to find out Duplicate Element in an given array.
 3.  Write a program to find sum of all the digits of a given number. <a href="InterviewPrograms/src/com/java/numbers/SumOfDigits.java" target="_blank"> [Solution] </a>
-4.  Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
+4. How to check if a given number is a Palindrome?
 5.  Find the second minimum number in the given array.
 6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 7.  Write a program to find the intersection of two arrays.
@@ -30,7 +30,6 @@
 18. Write a java program to LCM of a TWO given number.
 19. Write a Program to subtract two binary numbers?
 20. How to check if two rectangles overlap with each other?
-21. How to check if a given number is a Palindrome?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -55,6 +54,7 @@
 
 # Array Based Programs
 1. Calculate the average of given array.
+2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
