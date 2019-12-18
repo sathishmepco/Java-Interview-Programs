@@ -26,12 +26,11 @@
 14. Write a java program to Reverse an Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 16. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-17. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+17. Write a Java Program to move all zero to end of the Array.
 18. Write a java program to LCM of a TWO given number.
 19. Write a Program to subtract two binary numbers?
 20. How to check if two rectangles overlap with each other?
 21. How to check if a given number is a Palindrome?
-22. Write a Java Program to move all zero to end of the Array.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -49,6 +48,7 @@
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
 2. Write a java program to check whether given number is Armstrong Number or not.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
+3. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
