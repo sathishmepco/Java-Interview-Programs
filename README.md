@@ -51,6 +51,7 @@
 3. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 4. Check whether the given numbers are Amicable Numbers or NOT.
 5. Check whether the given number is Ramanujam's Number or NOT.
+6. Generate all the Kaprekar NUmber's less than 1000.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
