@@ -19,7 +19,7 @@
 7.  Write a program to find the intersection of two arrays.
 8.  Write a java program to print the Fibonacci Series upto N number.
 9.  Write a java program to print Prime Numbers from 1 to N.
-10. Write a java program to check whether given number is Armstrong Number or not.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
+10. How to add two numbers without using the plus operator in Java?
 11. Write a java program to convert Binary number to Decimal number?
 12. Write a java program to convert Decimal number to Binary number?
 13. Find the missing Number in the given array of 1 to N.
@@ -32,7 +32,6 @@
 20. How to check if two rectangles overlap with each other?
 21. How to check if a given number is a Palindrome?
 22. Write a Java Program to move all zero to end of the Array.
-23. How to add two numbers without using the plus operator in Java?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -49,6 +48,7 @@
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
+2. Write a java program to check whether given number is Armstrong Number or not.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
