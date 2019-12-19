@@ -1,4 +1,4 @@
-package com.java.numbers;
+package com.java.basic;
 
 /*
  * Write the java program to print 1 to 10 
