@@ -7,7 +7,7 @@
 6. Swap two numbers without using third variable approach 3. [[Solution]](InterviewPrograms/src/com/java/basic/SwapApproach3.java)
 7. How to check the given number is positive or negative in Java? [[Solution]](InterviewPrograms/src/com/java/basic/PositiveOrNegative.java)
 8. Write a Java Program to find whether given number is Leap year or NOT? [[Solution]](InterviewPrograms/src/com/java/basic/LeapYear.java)
-9. Write a Java Program to Print 1 To 10 Without Using Loop.
+9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](InterviewPrograms/src/com/java/basic/Print10WithoutLoop.java)
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
