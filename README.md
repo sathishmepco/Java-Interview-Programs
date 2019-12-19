@@ -2,7 +2,7 @@
 1. Check the given number is EVEN or ODD. [[Solution]](InterviewPrograms/src/com/java/basic/EvenOrOdd.java)
 2. Write a Java Program to find the Factorial of given number. [[Solution]](InterviewPrograms/src/com/java/basic/Factorial.java)
 3. Find the Factorial of a number using Recursion. [[Solution]](InterviewPrograms/src/com/java/basic/FactorialUsingRecursion.java)
-4. Swap two numbers without using third variable approach 1. 
+4. Swap two numbers without using third variable approach 1. [[Solution]](InterviewPrograms/src/com/java/basic/SwapApproach1.java)
 5. Swap two numbers without using third variable approach 2. 
 6. Swap two numbers without using third variable approach 3. 
 7. How to check the given number is positive or negative in Java?
