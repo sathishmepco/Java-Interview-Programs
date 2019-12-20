@@ -26,7 +26,6 @@
 14. Write a java program to Reverse an Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 16. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-17. Write a Java Program to move all zero to end of the Array.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -57,6 +56,7 @@
 4. Find the missing Number in the given array of 1 to N.
 5. Write a Java Program to find the Intersection of two arrays.
 6. Write a Java Program to find the Common Elements from the two sorted arrays.
+7. Write a Java Program to move all zero to end of the Array.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
