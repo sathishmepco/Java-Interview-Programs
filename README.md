@@ -56,6 +56,7 @@
 3. Find the second minimum number in the given array.
 4. Find the missing Number in the given array of 1 to N.
 5. Write a Java Program to find the Intersection of two arrays.
+6. Write a Java Program to find the Common Elements from the two sorted arrays.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
