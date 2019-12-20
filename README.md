@@ -14,7 +14,7 @@
 2.  Write a program to find out Duplicate Element in an given array.
 3.  Write a program to find sum of all the digits of a given number. <a href="InterviewPrograms/src/com/java/numbers/SumOfDigits.java" target="_blank"> [Solution] </a>
 4. How to check if a given number is a Palindrome?
-5.  Find the second minimum number in the given array.
+5. Write a Program to subtract two binary numbers?
 6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 7.  Write a program to find the intersection of two arrays.
 8.  Write a java program to print the Fibonacci Series upto N number.
@@ -28,7 +28,6 @@
 16. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 17. Write a Java Program to move all zero to end of the Array.
 18. Write a java program to LCM of a TWO given number.
-19. Write a Program to subtract two binary numbers?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -54,7 +53,9 @@
 # Array Based Programs
 1. Calculate the average of given array.
 2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
-3. Find the missing Number in the given array of 1 to N.
+3. Find the second minimum number in the given array.
+4. Find the missing Number in the given array of 1 to N.
+
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
