@@ -27,7 +27,6 @@
 15. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 16. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 17. Write a Java Program to move all zero to end of the Array.
-18. Write a java program to LCM of a TWO given number.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -49,6 +48,7 @@
 4. Check whether the given numbers are Amicable Numbers or NOT.
 5. Check whether the given number is Ramanujam's Number or NOT.
 6. Generate all the Kaprekar NUmber's less than 1000.
+7. Write a java program to LCM of a TWO given number.
 
 # Array Based Programs
 1. Calculate the average of given array.
