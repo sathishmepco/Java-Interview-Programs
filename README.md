@@ -57,7 +57,8 @@
 5. Write a Java Program to find the Intersection of two arrays.
 6. Write a Java Program to find the Common Elements from the two sorted arrays.
 7. Write a Java Program to move all zero to end of the Array.
-8. Write a Java Program to remove the given element from the Array.
+8. Write a Java Program to move all zeros to front of the Array.
+9. Write a Java Program to remove the given element from the Array.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
