@@ -14,7 +14,17 @@ import java.util.Arrays;
 * The solution is, declare two variables
 * one variable to store minimum in the array
 * another variable to store second minimum
+*
+* assume 0th index value is minimum value
+* and 1st index value is 2nd min value
+* then iterate the array from index 2 to n
+* compare every index value with min variable
+* if it is less than min variable
+* then update both min and second min
 * 
+* else check the ith value is less 
+* than 2nd min, if it so,
+* then update only 2nd min variable with ith value
 */
 public class SecondMinimum {
 	public static void main(String[] args) {
