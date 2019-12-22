@@ -54,7 +54,7 @@
 2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
 3. Find the second minimum number in the given array.
 4. Find the missing Number in the given array of 1 to N.
-5. Write a Java Program to find the Intersection of two arrays.
+5. Write a Java Program to find the Intersection of two arrays. [[Solution]](InterviewPrograms/src/com/java/array/ArrayIntersection.java)
 6. Write a Java Program to find the Common Elements from the two sorted arrays.
 7. Write a Java Program to move all zero to end of the Array.
 8. Write a Java Program to move all zeros to front of the Array.
