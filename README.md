@@ -49,7 +49,7 @@
 7. Write a java program to LCM of a TWO given number.
 
 # Array Based Programs
-1. Calculate the average of given array.
+1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
 2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
 3. Find the second minimum number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMinimum.java)
 4. Find the missing Number in the given array of 1 to N.
