@@ -16,7 +16,7 @@
 4. How to check if a given number is a Palindrome?
 5. Write a Program to subtract two binary numbers?
 6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
-7.  Write a program to find the intersection of two arrays.
+7. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 8.  Write a java program to print the Fibonacci Series upto N number.
 9.  Write a java program to print Prime Numbers from 1 to N.
 10. How to add two numbers without using the plus operator in Java?
@@ -24,7 +24,7 @@
 12. Write a java program to convert Decimal number to Binary number?
 13. How to check if two rectangles overlap with each other?
 14. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
-15. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
+
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
