@@ -54,11 +54,13 @@
 3. Find the second minimum number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMinimum.java)
 4. Find the missing Number in the given array of 1 to N.
 5. Write a Java Program to find the Intersection of two arrays. [[Solution]](InterviewPrograms/src/com/java/array/ArrayIntersection.java)
-6. Write a Java Program to find the Common Elements from the two sorted arrays.
-7. Write a Java Program to move all zero to end of the Array.
-8. Write a Java Program to move all zeros to front of the Array.
-9. Write a Java Program to remove the given element from the Array.
-10. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
+6. Write a Java Program to find the Union of Two Arrays (UnSorted Array).
+7. Write a Java Program to find the Union of Two Arrays (Sorted Arrays).
+8. Write a Java Program to find the Union of Tow Arrays using HashSet.
+9. Write a Java Program to move all zero to end of the Array.
+10. Write a Java Program to move all zeros to front of the Array.
+11. Write a Java Program to remove the given element from the Array.
+12. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
