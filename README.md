@@ -41,7 +41,8 @@
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
 2. Write a java program to check whether given number is Armstrong Number or not.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
-3. Write a java program to Check if a Given number is Perfect Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+3. Write a Java Program to check whether given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+4. Write a Java Program to print **Perfect Numbers** between 1 to 1000.
 4. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
 5. Write a Java Program to print **Amicable Numbers** between 1 to 1000.
 5. Check whether the given number is Ramanujam's Number or NOT.
