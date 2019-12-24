@@ -40,20 +40,20 @@
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
-2. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
-3. Write a Java Program to print **Armstrong Numbers** between 1 to 1000.
-3. Write a Java Program to check whether given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
-4. Write a Java Program to print **Perfect Numbers** between 1 to 1000.
-4. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
-5. Write a Java Program to print **Amicable Numbers** between 1 to 1000.
-5. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT.
-6. Write a Java Program to print **Ramanujam Numbers** between 1 to 1000.
-6. Generate all the Kaprekar NUmber's less than 1000.
-7. Write a java program to LCM of a TWO given number.
-8. Write a Java Program check whether the given number is **Automorphic Number** or NOT.
-9. Write a Java Program to print **Automorphic Number** between 1 to 1000.
-10. Write a Java Program check whether the given number is **Smith Number** or NOT.
-11. Write a Java Program to print **Smith Number** between 1 to 1000.
+2. Write a java program to LCM of a TWO given number.
+3. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
+4. Write a Java Program to print **Armstrong Numbers** between 1 to 1000.
+5. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+6. Write a Java Program to print **Perfect Numbers** between 1 to 1000.
+7. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
+8. Write a Java Program to print **Amicable Numbers** between 1 to 1000.
+9. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT.
+10. Write a Java Program to print **Ramanujam Numbers** between 1 to 1000.
+11. Generate all the Kaprekar NUmber's less than 1000.
+12. Write a Java Program check whether the given number is **Automorphic Number** or NOT.
+13. Write a Java Program to print **Automorphic Number** between 1 to 1000.
+14. Write a Java Program check whether the given number is **Smith Number** or NOT.
+15. Write a Java Program to print **Smith Number** between 1 to 1000.
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
