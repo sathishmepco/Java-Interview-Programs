@@ -25,7 +25,6 @@
 13. How to check if two rectangles overlap with each other?
 14. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 
-
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
 2.  How to Swap two Strings without using third (temporary) variable? [[Solution]](InterviewPrograms/src/com/java/strings/SwapTwoStrings.java)
@@ -48,6 +47,7 @@
 6. Generate all the Kaprekar NUmber's less than 1000.
 7. Write a java program to LCM of a TWO given number.
 8. Write a Java Program check the given number is **Automorphic Number** or NOT.
+9. Write a Java Program to print **Automorphic Number** between 1 to 1000.
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
