@@ -46,8 +46,10 @@
 5. Check whether the given number is Ramanujam's Number or NOT.
 6. Generate all the Kaprekar NUmber's less than 1000.
 7. Write a java program to LCM of a TWO given number.
-8. Write a Java Program check the given number is **Automorphic Number** or NOT.
+8. Write a Java Program check whether the given number is **Automorphic Number** or NOT.
 9. Write a Java Program to print **Automorphic Number** between 1 to 1000.
+10. Write a Java Program check whether the given number is **Smith Number** or NOT.
+11. Write a Java Program to print **Smith Number** between 1 to 1000.
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
