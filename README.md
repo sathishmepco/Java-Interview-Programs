@@ -42,7 +42,7 @@
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
 2. Write a java program to LCM of a TWO given number.
 3. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
-4. Write a Java Program to print **Armstrong Numbers** between 1 to 1000.
+4. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumberList.java)
 5. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 6. Write a Java Program to print **Perfect Numbers** between 1 to 1000.
 7. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
