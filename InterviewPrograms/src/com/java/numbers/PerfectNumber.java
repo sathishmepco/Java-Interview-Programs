@@ -5,8 +5,10 @@ import java.util.Scanner;
 /*
  * Perfect Number
  * ---------------
- * Perfect number is a positive integer that is equal to the sum of its proper 
- * positive divisors, that is, the sum of its positive divisors excluding the number itself. 
+ * Perfect number is a positive integer that is 
+ * equal to the sum of its proper positive divisors, 
+ * that is, the sum of its positive divisors excluding 
+ * the number itself. 
  * 
  * Following are the examples of perfect number.
  * 6 = 1+2+3
