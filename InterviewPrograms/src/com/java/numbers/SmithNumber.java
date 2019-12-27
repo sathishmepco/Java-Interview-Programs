@@ -60,6 +60,12 @@ public class SmithNumber {
 		if( n > 2 )
 			factors.add(n);
 		System.out.println("Prime Factors are : "+factors);
+		
+		//if the number is prime number
+		//then only one factor will be there
+		//so prime numbers are not smith number
+		if(factors.size() == 1)
+			return new ArrayList<>();
 		return factors;
 	}
 	
