@@ -51,7 +51,7 @@
 9. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/RamanujamNumber.java)
 10. Write a Java Program check whether the given number is **Automorphic Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumber.java)
 11. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumberList.java)
-12. Write a Java Program check whether the given number is **Smith Number** or NOT.
+12. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumber.java)
 13. Write a Java Program to print **Smith Number** between 1 to 1000.
 14. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
 15. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
