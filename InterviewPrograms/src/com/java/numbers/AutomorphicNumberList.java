@@ -1,7 +1,5 @@
 package com.java.numbers;
 
-import java.util.Scanner;
-
 /*
  * 	Automorphic Number
  * 
@@ -24,7 +22,7 @@ import java.util.Scanner;
  *  means this number is not a automorphic
  *  
  *  Automorphic Numbers are
- *  1 5 6 25 76 376 625 
+ *  1, 5, 6, 25, 76, 376, 625 
  *  
  */
 public class AutomorphicNumberList {
