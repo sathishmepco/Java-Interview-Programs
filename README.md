@@ -55,7 +55,7 @@
 13. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumberList.java)
 14. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
 15. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
-16. Write a Java Program to print all the **Prime Factors** of the Given Number.
+16. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
