@@ -9,6 +9,7 @@
 8. Write a Java Program to find whether given number is Leap year or NOT? [[Solution]](InterviewPrograms/src/com/java/basic/LeapYear.java)
 9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](InterviewPrograms/src/com/java/basic/Print10WithoutLoop.java)
 10. Write a Java Program to print the digits of a Given Number.
+11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
 
 # Interview Programs
 1.  Write a program to find the Most Frequent Element in an given array.
