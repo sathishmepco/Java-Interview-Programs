@@ -6,17 +6,22 @@ package com.java.array;
  * Write a Java Program to find the intersection of 
  * Two Arrays
  * 
- * say array1 = {1, 2, 3, 4, 5, 6}
- * say array2 = {2, 4, 6, 8,10}
+ * INTERSECTION
+ * Common element in both arrays.
+ * Intersection array elements are should be
+ * present in both array1 and array2 
+ * 
+ * say array1 = {44, 49, 30, 25, 67, 69};
+ * say array2 = {88, 44, 69, 93, 30};
  * 
  * intersection of two array is
- * intersection = {2, 4, 6}
+ * intersection = {44, 30, 69}
  */
 
-public class ArrayIntersection {
+public class IntersectionOfTwoArrays {
 	public static void main(String[] args) {
-		int array1[] = {1, 2, 3, 4, 5, 6};
-		int array2[] = {2, 4, 6, 8, 10};
+		int array1[] = {44, 49, 30, 25, 67, 69};
+		int array2[] = {88, 44, 69, 93, 30};
 		
 		System.out.println("Given array 1 is : ");
 		for(int v : array1)
@@ -49,8 +54,8 @@ public class ArrayIntersection {
 }
 /*
 	OUTPUT
-	Given array 1 is : 1 2 3 4 5 6 
-	Given array 2 is : 2 4 6 8 10 
-	Intersection of the array 1 & 2 is : 2 4 6 	
+	Given array 1 is : 44 49 30 25 67 69 
+	Given array 2 is : 88 44 69 93 30 
+	Intersection of the array 1 & 2 is : 44 30 69  	
 */
 
