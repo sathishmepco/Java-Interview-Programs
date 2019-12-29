@@ -15,7 +15,7 @@ package com.java.numbers;
  * 
  * steps
  * 1. get the minimum of n1 & n2
- * 2. assume the minimum is LCM
+ * 2. assume the maximum is LCM
  * 3. increment the lcm upto both n1 & n2
  * perfectly divides the LCM.
  *
@@ -30,7 +30,7 @@ public class LCM {
 		int a = 5;
 		int b = 7;
 		
-		int lcm = (a < b) ? a : b;
+		int lcm = (a > b) ? a : b;
 		
 		while(true){
 			if(lcm % a == 0 && lcm % b == 0){
