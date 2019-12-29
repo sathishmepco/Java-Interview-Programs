@@ -42,7 +42,7 @@
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
-2. Write a java program to LCM of a TWO given number. [[Solution]](InterviewPrograms/src/com/java/numbers/LCM.java)
+2. Write a java program to ***LCM of TWO given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/LCM.java)
 3. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
 4. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumberList.java)
 5. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
@@ -57,6 +57,7 @@
 14. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
 15. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
 16. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
+17. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
