@@ -39,6 +39,8 @@
 9. How do you count the number of words in a Given String?
 10. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
 11. Write a Java Program to print all permutatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/PermutationOfString.java)
+12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach.
+13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach.
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
