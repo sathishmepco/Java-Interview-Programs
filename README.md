@@ -35,7 +35,7 @@
 5.  Write a java program to remove all White Spaces in the given String.
 6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
 7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
-8.  Write a Java program to find the maximum occuring character in given String.
+8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](InterviewPrograms/src/com/java/strings/MostRepeatedChar.java)
 9. How do you count the number of words in a Given String using Split method? [[Solution]](InterviewPrograms/src/com/java/strings/CountWords2.java)
 10. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
 11. Write a Java Program to print all permutatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/PermutationOfString.java)
