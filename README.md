@@ -70,7 +70,7 @@
 6. Write a Java Program to find the Intersection of ***Two Sorted*** arrays. [[Solution]](InterviewPrograms/src/com/java/array/IntersectionOfSortedArrays.java)
 7. Write a Java Program to find the ***Union of Two Arrays (UnSorted Array)***. [[Solution]](InterviewPrograms/src/com/java/array/UnionOfTwoArrays.java)
 8. Write a Java Program to find the ***Union of Two Arrays (Sorted Arrays)***. [[Solution]](InterviewPrograms/src/com/java/array/UnionOfSortedArrays.java)
-9. Write a Java Program to find the Union of Tow Arrays using HashSet.
+9. Write a Java Program to find the ***Union of Tow Arrays using HashSet***. [[Solution]](InterviewPrograms/src/com/java/array/MostRepeatedChar.java)
 10. Write a Java Program to move all zero to end of the Array.
 11. Write a Java Program to move all zeros to front of the Array.
 12. Write a Java Program to remove the given element from the Array.
