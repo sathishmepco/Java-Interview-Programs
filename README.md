@@ -24,6 +24,8 @@
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
 12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/SumOfDigits.java)
 13. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
+14. How to add two numbers without using the plus operator in Java?
+15. Write a java program to ***Reverse a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -63,6 +65,7 @@
 20. Write a Java Program to print the ***Fibonacci Series*** upto N number.
 21. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***.
 22. Write a Java Program to print Prime Numbers from 1 to N.
+23. How to check if two rectangles overlap with each other?
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
