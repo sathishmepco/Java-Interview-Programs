@@ -3,9 +3,9 @@
 - [Numbers](#numbers)
 - [Array Based Programs](#array-based-programs)
 - [String Based Programs](#string-based-programs)
+- [Converters](#converters)
 - [Sorting](#sorting)
 - [Searching](#searching)
-- [Converters](#converters)
 - [Matrix](#matrix)
 - [Print The Series](#print-the-series)
 - [Pattern Questions](#pattern-questions)
@@ -108,10 +108,11 @@
 2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
 
 # Matrix
-1. Write a Program to transpose a Matrix? [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
-2. Write a Program to add or subtract two Matrices? [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
-3. Write a Program to multiply two Matrices in Java?
-4. Write a Java Program to print the Matrix Spiral form.
+1. Write a Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
+2. Write a Program to add or ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
+3. Write a Program to ***Multiply Two Matrices*** in Java?
+4. Write a Java Program to print the ***Matrix Spiral form***.
+5. Write a Java Program to find ***Matrix Determinent***.
 
 # Print the Series
 1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
