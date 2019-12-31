@@ -1,8 +1,8 @@
 # Interview Programs (In Java)
 - [Basic Programs](#basic-programs)
-- [String Based Programs](#string-based-programs)
 - [Numbers](#numbers)
 - [Array Based Programs](#array-based-programs)
+- [String Based Programs](#string-based-programs)
 - [Sorting](#sorting)
 - [Searching](#searching)
 - [Matrix](#matrix)
@@ -26,21 +26,6 @@
 13. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 14. How to add two numbers without using the plus operator in Java?
 15. Write a java program to ***Reverse a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
-
-# String Based Programs
-1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
-2.  How to Swap two Strings without using third (temporary) variable? [[Solution]](InterviewPrograms/src/com/java/strings/SwapTwoStrings.java)
-3.  Write a java program to reverse a String without using in-build function. [[Solution]](InterviewPrograms/src/com/java/strings/ReverseString.java)
-4.  Write a java program to count the number of words in a given String. [[Solution]](InterviewPrograms/src/com/java/strings/CountWords.java)
-5.  Write a java program to remove all White Spaces in the given String.
-6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
-7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
-8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](InterviewPrograms/src/com/java/strings/MostRepeatedChar.java)
-9. How do you count the number of words in a Given String using Split method? [[Solution]](InterviewPrograms/src/com/java/strings/CountWords2.java)
-10. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
-11. Write a Java Program to print all permutatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/PermutationOfString.java)
-12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingBitwise.java)
-13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingRecursion.java)
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
@@ -84,6 +69,21 @@
 14. Write a program to find the Most Frequent Element in an given array.
 15. Write a program to find out Duplicate Element in an given array.
 16. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
+
+# String Based Programs
+1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
+2.  How to Swap two Strings without using third (temporary) variable? [[Solution]](InterviewPrograms/src/com/java/strings/SwapTwoStrings.java)
+3.  Write a java program to reverse a String without using in-build function. [[Solution]](InterviewPrograms/src/com/java/strings/ReverseString.java)
+4.  Write a java program to count the number of words in a given String. [[Solution]](InterviewPrograms/src/com/java/strings/CountWords.java)
+5.  Write a java program to remove all White Spaces in the given String.
+6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
+7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
+8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](InterviewPrograms/src/com/java/strings/MostRepeatedChar.java)
+9. How do you count the number of words in a Given String using Split method? [[Solution]](InterviewPrograms/src/com/java/strings/CountWords2.java)
+10. Write a Java Program to generate all combinatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/CombinationOfString.java)
+11. Write a Java Program to print all permutatinos of a Given String. [[Solution]](InterviewPrograms/src/com/java/strings/PermutationOfString.java)
+12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingBitwise.java)
+13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingRecursion.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
