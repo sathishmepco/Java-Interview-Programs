@@ -1,3 +1,15 @@
+# Interview Programs (In Java)
+- [Basic Programs](#basic-programs)
+- [String Based Programs](#string-based-programs)
+- [Numbers](#numbers)
+- [Array Based Programs](#array-based-programs)
+- [Sorting](#sorting)
+- [Searching](#searching)
+- [Matrix](#matrix)
+- [Print The Series](#print-the-series)
+- [Pattern Questions](#pattern-questions)
+- [Brackets or Parentheses Problems](#brackets-or-parentheses-problems)
+
 # Basic Programs
 1. Check the given number is EVEN or ODD. [[Solution]](InterviewPrograms/src/com/java/basic/EvenOrOdd.java)
 2. Write a Java Program to find the Factorial of given number. [[Solution]](InterviewPrograms/src/com/java/basic/Factorial.java)
@@ -10,22 +22,6 @@
 9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](InterviewPrograms/src/com/java/basic/Print10WithoutLoop.java)
 10. Write a Java Program to print the digits of a Given Number. [[Solution]](InterviewPrograms/src/com/java/basic/DigitsOfNumber.java)
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
-
-# Interview Programs
-1.  Write a program to find the Most Frequent Element in an given array.
-2.  Write a program to find out Duplicate Element in an given array.
-3.  Write a program to find sum of all the digits of a given number. <a href="InterviewPrograms/src/com/java/numbers/SumOfDigits.java" target="_blank"> [Solution] </a>
-4. How to check if a given number is a Palindrome?
-5. Write a Program to subtract two binary numbers?
-6.  Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
-7. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-8.  Write a java program to print the Fibonacci Series upto N number.
-9.  Write a java program to print Prime Numbers from 1 to N.
-10. How to add two numbers without using the plus operator in Java?
-11. Write a java program to convert Binary number to Decimal number?
-12. Write a java program to convert Decimal number to Binary number?
-13. How to check if two rectangles overlap with each other?
-14. Write a java program to Reverse a given number. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
