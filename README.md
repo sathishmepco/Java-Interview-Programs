@@ -5,6 +5,7 @@
 - [String Based Programs](#string-based-programs)
 - [Sorting](#sorting)
 - [Searching](#searching)
+- [Converters](#converters)
 - [Matrix](#matrix)
 - [Print The Series](#print-the-series)
 - [Pattern Questions](#pattern-questions)
@@ -88,6 +89,12 @@
 # Converters
 1. Convert Decimal Number to Binary Number.
 2. Convert Binary Number to Decimal Number.
+3. Convert Decimal Number to Octal Number.
+4. Convert Octal Number to Decimal Number.
+5. Convert Hexadecimal to Octal.
+6. Convert Octal to HexaDecimal.
+7. Convert Octal to Binary Number.
+8. Convert Binary Number to Octal.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
