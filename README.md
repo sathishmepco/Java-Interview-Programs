@@ -85,6 +85,10 @@
 12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingBitwise.java)
 13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach. [[Solution]](InterviewPrograms/src/com/java/strings/AllSubsetsUsingRecursion.java)
 
+# Converters
+1. Convert Decimal Number to Binary Number.
+2. Convert Binary Number to Decimal Number.
+
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
 2.  Quick Sort <a href="InterviewPrograms/src/com/algorithm/sorting/QuickSort.java" target="_blank"> [Solution] </a>
