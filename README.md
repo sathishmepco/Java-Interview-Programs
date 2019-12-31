@@ -22,6 +22,8 @@
 9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](InterviewPrograms/src/com/java/basic/Print10WithoutLoop.java)
 10. Write a Java Program to print the digits of a Given Number. [[Solution]](InterviewPrograms/src/com/java/basic/DigitsOfNumber.java)
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
+12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/SumOfDigits.java)
+13. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
@@ -56,6 +58,11 @@
 15. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
 16. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
 17. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
+18. Check whether the ***Given Number*** is a ***Palindrome or NOT***.
+19. Write a Java Program to subtract two binary numbers?
+20. Write a Java Program to print the ***Fibonacci Series*** upto N number.
+21. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***.
+22. Write a Java Program to print Prime Numbers from 1 to N.
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
@@ -71,6 +78,9 @@
 11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToFront.java)
 12. Write a Java Program to remove the given element from the Array.
 13. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
+14. Write a program to find the Most Frequent Element in an given array.
+15. Write a program to find out Duplicate Element in an given array.
+16. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
