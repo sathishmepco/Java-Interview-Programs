@@ -2,6 +2,46 @@ package com.java.convertor;
 
 import java.util.Scanner;
 
+/*
+ * 	Decimal To Binary
+ * 
+ * Write a Java Program to convert Decimal
+ * value to Binary Value
+ * 
+ * say Given Number is 5
+ * binary value is 101
+ * 
+ * 1 * 2^2 + 0* 2^1 + 1 * 2^0
+ * = 4 + 0 + 1 = 5
+ * 
+ * Steps:
+ * 1. divide the decimal and get reminder
+ * 2. multiply the reminder by 2 power i(i=0)
+ * 3. update the decimal by divide by 2
+ * 4. divide the decimal and get reminder
+ * 5. increment the power value by 1
+ * 6. multiply the reminder by 2 power i(i=1)
+ * 6. sum the multiplication result
+ * 7. continue the steps upto n > 0
+ * 
+ * given number is n = 5
+ * divide (n=5) by 2 and reminder is 1
+ * multiply the reminder 1 by 2^i (i=0)
+ * sum = sum + 1; (sum = 1)
+ * update 5 = n = 5/2 = 2
+ *  
+ *  divide (n=2) by 2 and reminder is 0
+ *  multiply the reminder 0 by 2^i (i=1)
+ *  sum = sum + 0; (sum = 1)
+ *  update 2 = n = 2/2 = 1
+ *
+ *  divide (n=1) by 2 and reminder is 1
+ *  multiply the reminder 2 by 2^i (i=2)
+ *  sum = sum + 4; (sum = 5)
+ *  update 2 = n = 0/2 = 0
+ *  
+ *  now n is 0, so stop the iteration
+ */
 public class DecimalToBinary {
 	
 	public static void main(String[] args) {
@@ -19,5 +59,18 @@ public class DecimalToBinary {
 			i++;
 		}
 		System.out.println("Binary value is : "+binary);
+		
+		scanner.close();
 	}
 }
+/*
+	OUTPUT
+	Enter the decimal value : 31
+	Binary value is : 11111
+	
+	Enter the decimal value : 32
+	Binary value is : 100000
+	
+	Enter the decimal value : 7
+	Binary value is : 111
+*/
