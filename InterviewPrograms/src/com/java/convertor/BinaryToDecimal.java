@@ -20,6 +20,6 @@ public class BinaryToDecimal {
 		}
 		
 		System.out.println("The decimal value is : "+decimal);
-		
+		scanner.close();
 	}
 }
