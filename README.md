@@ -31,26 +31,26 @@
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](InterviewPrograms/src/com/java/numbers/GCD.java)
 2. Write a java program to ***LCM of TWO given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/LCM.java)
-3. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
-4. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumberList.java)
-5. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
-6. Write a Java Program to print **Perfect Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumberList.java)
-7. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
-8. Write a Java Program to print **Amicable Numbers** between 1 to 1000.
-9. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/RamanujamNumber.java)
-10. Write a Java Program check whether the given number is **Automorphic Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumber.java)
-11. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumberList.java)
-12. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumber.java)
-13. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumberList.java)
-14. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
-15. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
-16. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
-17. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
-18. Check whether the ***Given Number*** is a ***Palindrome or NOT***.
-19. Write a Java Program to subtract two binary numbers?
-20. Write a Java Program to print the ***Fibonacci Series*** upto N number.
-21. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***.
-22. Write a Java Program to print Prime Numbers from 1 to N.
+3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
+4. Check whether the ***Given Number*** is a ***Palindrome or NOT***.
+5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
+6. Write a Java Program to print the ***Fibonacci Series*** upto N number.
+7. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***.
+8. Write a Java Program to print ***Prime Numbers from 1 to N***.
+9. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
+10. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumberList.java)
+11. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
+12. Write a Java Program to print **Perfect Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumberList.java)
+13. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT.
+14. Write a Java Program to print **Amicable Numbers** between 1 to 1000.
+15. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/RamanujamNumber.java)
+16. Write a Java Program check whether the given number is **Automorphic Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumber.java)
+17. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumberList.java)
+18. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumber.java)
+19. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumberList.java)
+20. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
+21. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
+22. Write a Java Program to subtract two binary numbers?
 23. How to check if two rectangles overlap with each other?
 
 # Array Based Programs
