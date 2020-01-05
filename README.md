@@ -94,7 +94,7 @@
 5. Convert Hexadecimal to Octal.
 6. Convert Octal to HexaDecimal.
 7. Convert Octal to Binary Number. [[Solution]](InterviewPrograms/src/com/java/convertor/OctalToBinary.java)
-8. Convert Binary Number to Octal.
+8. Convert Binary Number to Octal. [[Solution]](InterviewPrograms/src/com/java/convertor/BinaryToOctal.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
