@@ -2,7 +2,9 @@ package com.java.basic;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.TreeSet;
 
 /*
  * 	Divisors of N
@@ -25,7 +27,7 @@ public class Divisors {
 		System.out.println("Enter the N value : ");
 		int N = Integer.parseInt(scanner.nextLine().trim());
 		
-		ArrayList<Integer> divisors = new ArrayList<>();
+		TreeSet<Integer> divisors = new TreeSet<>();
 		for(int i=1;i<N;i++){
 			int d = N % i;
 			if(d == 0){
@@ -39,7 +41,6 @@ public class Divisors {
 			if(N/i <= i)
 				break;
 		}
-		Collections.sort(divisors);
 		System.out.println("The divisors of "+N+" are : "+divisors.toString()				);
 		System.out.println("Number of Divisors are : "+divisors.size());
 		scanner.close();
