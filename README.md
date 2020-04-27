@@ -275,6 +275,14 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
+12. Write a Java Program to print the following Pattern.
+```
+9 9 9 9 9 9 9 9 9
+  7 7 7 7 7 7 7
+    5 5 5 5 5
+      3 3 3
+        1
+```
 
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
