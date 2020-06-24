@@ -53,6 +53,7 @@
 22. Write a Java Program to subtract two binary numbers?
 23. How to check if two rectangles overlap with each other?
 24. Find the **Largest Divisor**. [[Solution]](InterviewPrograms/src/com/java/numbers/LargestDivisor.java)
+25. Find the **All Divisors** of a Given number **N**. [[Solution]](InterviewPrograms/src/com/java/numbers/Divisors.java)
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
