@@ -48,8 +48,8 @@
 17. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](InterviewPrograms/src/com/java/numbers/AutomorphicNumberList.java)
 18. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumber.java)
 19. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/SmithNumberList.java)
-20. Write a Java Program to check whether given number is **Kaprekar Number** or NOT.
-21. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
+20. Write a Java Program to check whether given number is **Kaprekar Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/KaprekarNumber.java)
+21. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/KaprekarNumberList.java)
 22. Write a Java Program to subtract two binary numbers?
 23. How to check if two rectangles overlap with each other?
 24. Find the **Largest Divisor**. [[Solution]](InterviewPrograms/src/com/java/numbers/LargestDivisor.java)
