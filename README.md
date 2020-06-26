@@ -52,6 +52,8 @@
 21. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000.
 22. Write a Java Program to subtract two binary numbers?
 23. How to check if two rectangles overlap with each other?
+24. Find the **Largest Divisor**. [[Solution]](InterviewPrograms/src/com/java/numbers/LargestDivisor.java)
+25. Find the **All Divisors** of a Given number **N**. [[Solution]](InterviewPrograms/src/com/java/numbers/Divisors.java)
 
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
@@ -90,7 +92,7 @@
 1. Convert Decimal Number to Binary Number. [[Solution]](InterviewPrograms/src/com/java/convertor/DecimalToBinary.java)
 2. Convert Binary Number to Decimal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/BinaryToDecimal.java)
 3. Convert Decimal Number to Octal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/DecimalToOctal.java)
-4. Convert Octal Number to Decimal Number.
+4. Convert Octal Number to Decimal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/OctalToDecimal.java)
 5. Convert Hexadecimal to Octal.
 6. Convert Octal to HexaDecimal.
 7. Convert Octal to Binary Number. [[Solution]](InterviewPrograms/src/com/java/convertor/OctalToBinary.java)
