@@ -24,8 +24,8 @@
 10. Write a Java Program to print the digits of a Given Number. [[Solution]](InterviewPrograms/src/com/java/basic/DigitsOfNumber.java)
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
 12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/SumOfDigits.java)
-13. Write a Java Program to find smallest in 3 nummbers (a,b,c) without using < or > symbol?
-14. How to add two numbers without using the plus operator in Java?
+13. Write a Java Program to find the smallest of 3 numbers (a,b,c) without using < or > symbol? [[Solution]](InterviewPrograms/src/com/java/numbers/FindTheSmallest.java)
+14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](InterviewPrograms/src/com/java/numbers/AddWithoutPlus.java)
 15. Write a java program to ***Reverse a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
 
 # Numbers
