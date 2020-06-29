@@ -42,8 +42,7 @@ public class AmicablePair {
 		
 		ArrayList<Integer> aFactors = factors(a);
 		ArrayList<Integer> bFactors = factors(b);
-		System.out.println(aFactors);
-		System.out.println(bFactors);
+
 		int aSum = 0, bSum = 0;
 		for(int i=0;i<aFactors.size();i++)
 			aSum += aFactors.get(i);
