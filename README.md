@@ -274,7 +274,7 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
-12. Write a Java Program to print the following Pattern.
+12. Write a Java Program to print the following Pattern. 
 ```
 9 9 9 9 9 9 9 9 9
   7 7 7 7 7 7 7
@@ -282,7 +282,7 @@
       3 3 3
         1
 ```
-13. Write a Java Program to print the following Pattern.
+13. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern10.java)
 ```
 5 5 5 5 5 5 5 5 5
   4 4 4 4 4 4 4
@@ -290,7 +290,7 @@
       2 2 2
         1
 ```
-14. Write a Java Program to print the following Pattern.
+14. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern11.java)
 ```
 1 1 1 1 1
 2 2 2 2 2
