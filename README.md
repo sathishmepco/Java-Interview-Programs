@@ -282,7 +282,22 @@
       3 3 3
         1
 ```
-
+13. Write a Java Program to print the following Pattern.
+```
+5 5 5 5 5 5 5 5 5
+  4 4 4 4 4 4 4
+    3 3 3 3 3
+      2 2 2
+        1
+```
+14. Write a Java Program to print the following Pattern.
+```
+1 1 1 1 1
+2 2 2 2 2
+3 3 3 3 3
+4 4 4 4 4
+5 5 5 5 5
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
