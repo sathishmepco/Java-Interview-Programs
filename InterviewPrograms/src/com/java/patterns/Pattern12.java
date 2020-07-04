@@ -1,7 +1,14 @@
 package com.java.patterns;
 
 import java.util.Scanner;
-
+/*
+Write a Java Program to print the following Pattern
+9 9 9 9 9 9 9 9 9
+  7 7 7 7 7 7 7
+    5 5 5 5 5
+      3 3 3
+        1
+*/
 public class Pattern12 {
 	public static void main(String args[] ) throws Exception {
     	Scanner scanner = new Scanner(System.in);
