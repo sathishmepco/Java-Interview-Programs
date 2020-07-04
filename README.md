@@ -274,7 +274,7 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
-12. Write a Java Program to print the following Pattern. 
+12. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern12.java)
 ```
 9 9 9 9 9 9 9 9 9
   7 7 7 7 7 7 7
@@ -298,6 +298,30 @@
 4 4 4 4 4
 5 5 5 5 5
 ```
+15. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern13.java)
+```
+        A
+      A B A
+    A B C B A
+  A B C D C B A
+A B C D E D C B A
+```
+16. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern14.java)
+```
+        1
+      1 2 1
+    1 2 3 2 1
+  1 2 3 4 3 2 1
+1 2 3 4 5 4 3 2 1
+'''
+17. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern15.java)
+```
+        A 
+      B A B
+    C B A B C
+  D C B A B C D
+E D C B A B C D E
+'''
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
