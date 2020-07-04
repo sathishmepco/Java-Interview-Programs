@@ -274,7 +274,7 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
-12. Write a Java Program to print the following Pattern. 
+12. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern12.java)
 ```
 9 9 9 9 9 9 9 9 9
   7 7 7 7 7 7 7
