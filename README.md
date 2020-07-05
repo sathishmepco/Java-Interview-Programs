@@ -338,6 +338,14 @@ E D C B A B C D E
   G F E D C B A
 I H G F E D C B A
 ```
+20. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern18.java)
+```
+        A
+      A B C
+    A B C D E
+  A B C D E F G
+A B C D E F G H I
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
