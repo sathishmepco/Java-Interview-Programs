@@ -313,7 +313,7 @@ A B C D E D C B A
     1 2 3 2 1
   1 2 3 4 3 2 1
 1 2 3 4 5 4 3 2 1
-'''
+```
 17. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern15.java)
 ```
         A 
@@ -321,7 +321,7 @@ A B C D E D C B A
     C B A B C
   D C B A B C D
 E D C B A B C D E
-'''
+```
 18. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern16.java)
 ```
         0 
