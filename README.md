@@ -354,6 +354,15 @@ A B C D E F G H I
   7 6 5 4 3 2 1
 9 8 7 6 5 4 3 2 1
 ```
+22. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern20.java)
+```
+        1
+      1 2 3
+    1 2 3 4 5
+  1 2 3 4 5 6 7
+1 2 3 4 5 6 7 8 9
+```
+
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
