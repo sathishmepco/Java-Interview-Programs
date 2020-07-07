@@ -378,6 +378,14 @@ I I I I I I I I I
   D D D D D D D
 E E E E E E E E E
 ```
+25. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern23.java)
+```
+        1
+      3 3 3
+    5 5 5 5 5
+  7 7 7 7 7 7 7
+9 9 9 9 9 9 9 9 9
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
