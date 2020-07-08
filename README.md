@@ -410,6 +410,14 @@ A B C D E
       A B
         A
 ```
+29. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern27.java)
+```
+E E E E E
+  D D D D
+    C C C
+      B B
+        A
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
