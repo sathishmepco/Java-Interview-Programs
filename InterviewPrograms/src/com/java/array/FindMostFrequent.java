@@ -33,9 +33,9 @@ package com.java.array;
  */
 public class FindMostFrequent {
 	public static void main(String[] args) {
-//		int array[] = {3, 9, 1, 3, 6, 3, 8, 1, 6};
+		int array[] = {3, 9, 1, 3, 6, 3, 8, 1, 6};
 //		int array[] = {1, 9, 1, 3, 2, 3, 10};
-		int array[] = {2, 1, 2, 2, 1, 3};
+//		int array[] = {2, 1, 2, 2, 1, 3};
 
 		int max_freq = 0;
 		int ans = 0;
