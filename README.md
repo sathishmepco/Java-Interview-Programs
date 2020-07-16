@@ -66,9 +66,11 @@
 11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToFront.java)
 12. Write a Java Program to remove the given element from the Array.
 13. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
-14. Write a program to find the Most Frequent Element in an given array.
-15. Write a program to find out Duplicate Element in an given array.
-16. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
+14. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
+15. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
+16. Write a program to find the ***Most Frequent Element using Hastable***.
+17. Write a program to find out Duplicate Element in an given array.
+18. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
