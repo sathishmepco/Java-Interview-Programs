@@ -1,8 +1,6 @@
 package com.java.array;
 
 import java.util.Hashtable;
-import java.util.Iterator;
-import java.util.Set;
 
 /*
  * Find the Most Frequent Element in an Array
