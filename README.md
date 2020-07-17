@@ -68,7 +68,7 @@
 13. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 14. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
 15. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
-16. Write a program to find the ***Most Frequent Element using Hastable***.
+16. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
 17. Write a program to find out Duplicate Element in an given array.
 18. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 
