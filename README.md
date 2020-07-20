@@ -56,7 +56,7 @@
 1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
 2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
 3. Find the second minimum number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMinimum.java)
-4. Find the missing Number in the given array of 1 to N.
+4. Find the missing Number in the given array of 1 to N. [[Solution]](InterviewPrograms/src/com/java/array/FindMissingNo.java)
 5. Write a Java Program to find the Intersection of two arrays. [[Solution]](InterviewPrograms/src/com/java/array/IntersectionOfTwoArrays.java)
 6. Write a Java Program to find the Intersection of ***Two Sorted*** arrays. [[Solution]](InterviewPrograms/src/com/java/array/IntersectionOfSortedArrays.java)
 7. Write a Java Program to find the ***Union of Two Arrays (UnSorted Array)***. [[Solution]](InterviewPrograms/src/com/java/array/UnionOfTwoArrays.java)
@@ -64,13 +64,12 @@
 9. Write a Java Program to find the ***Union of Tow Arrays using HashSet***. [[Solution]](InterviewPrograms/src/com/java/array/MostRepeatedChar.java)
 10. Write a Java Program to ***Move all Zero to End of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToEnd.java)
 11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToFront.java)
-12. Write a Java Program to remove the given element from the Array.
-13. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
-14. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
-15. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
-16. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
-17. Write a program to find out Duplicate Element in an given array.
-18. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
+12. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
+13. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
+14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
+15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
+16. Write a program to find out Duplicate Element in an given array.
+17. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
