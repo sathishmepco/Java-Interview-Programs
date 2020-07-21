@@ -499,7 +499,14 @@ C C C
 B B
 A
 ```
-
+40. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern38.java)
+```
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
