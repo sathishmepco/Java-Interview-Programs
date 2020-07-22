@@ -68,7 +68,7 @@
 13. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
 14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
 15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
-16. Write a program to find out Duplicate Element in an given array.
+16. Write a java program to ***Rotate the Given Array*** d times.
 17. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z.
 
 # String Based Programs
