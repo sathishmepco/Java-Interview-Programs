@@ -531,6 +531,14 @@ C C C
 D D
 E
 ```
+44. Write a Java Program to print the following Pattern. [[Solution]](InterviewPrograms/src/com/java/patterns/Pattern42.java)
+```
+1 1 1 1 1
+2 2 2 2
+3 3 3
+4 4
+5
+```
 # Brackets or Parentheses Problems
 1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](InterviewPrograms/src/com/java/parentheses/BalancedParentheses.java)
 ```
