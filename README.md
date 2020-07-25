@@ -114,6 +114,8 @@
 4. Write a Program to ***Multiply Two Matrices*** in Java?
 5. Write a Java Program to print the ***Matrix Spiral form***.
 6. Write a Java Program to find ***Matrix Determinent***.
+7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix."""
+
 
 # Print the Series
 1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
