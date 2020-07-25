@@ -114,7 +114,7 @@
 4. Write a Java Program to ***Multiply Two Matrices.***
 5. Write a Java Program to print the ***Matrix Spiral form***.
 6. Write a Java Program to find ***Matrix Determinent***.
-7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix."""
+7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.***
 8. Check whether the Given Matrix is ***Sparx Matrix or NOT***
 9. Display the ***Lower Triangular Matrix***
 10. Display the ***Upper Triangular Matrix***
