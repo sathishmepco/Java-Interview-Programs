@@ -108,11 +108,12 @@
 2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
 
 # Matrix
-1. Write a Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
-2. Write a Program to add or ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
-3. Write a Program to ***Multiply Two Matrices*** in Java?
-4. Write a Java Program to print the ***Matrix Spiral form***.
-5. Write a Java Program to find ***Matrix Determinent***.
+1. Write a Java Program to ***Add two Matrices.***
+2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
+3. Write a Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
+4. Write a Program to ***Multiply Two Matrices*** in Java?
+5. Write a Java Program to print the ***Matrix Spiral form***.
+6. Write a Java Program to find ***Matrix Determinent***.
 
 # Print the Series
 1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
