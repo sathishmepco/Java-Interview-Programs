@@ -110,11 +110,12 @@
 # Matrix
 1. Write a Java Program to ***Add two Matrices.***
 2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
-3. Write a Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
-4. Write a Program to ***Multiply Two Matrices*** in Java?
+3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
+4. Write a Java Program to ***Multiply Two Matrices.***
 5. Write a Java Program to print the ***Matrix Spiral form***.
 6. Write a Java Program to find ***Matrix Determinent***.
 7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix."""
+8. Check whether the Given Matrix is ***Sparx Matrix or NOT***
 
 
 # Print the Series
