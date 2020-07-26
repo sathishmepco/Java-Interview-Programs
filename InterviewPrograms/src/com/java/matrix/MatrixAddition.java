@@ -22,7 +22,7 @@ public class MatrixAddition {
 						{9,10,11,12},
 						{13,14,15,16}
 						};
-		int row1 = 4, col1 = 3;
+		int row1 = 4, col1 = 4;
 		
 		int matrixB[][] = {
 						{5,10,15,20},
