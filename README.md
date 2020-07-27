@@ -108,8 +108,8 @@
 2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
 
 # Matrix
-1. Write a Java Program to ***Add two Matrices.***
-2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
+1. Write a Java Program to ***Add two Matrices.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
+2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixSubtraction.java)
 3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
 4. Write a Java Program to ***Multiply Two Matrices.***
 5. Write a Java Program to print the ***Matrix Spiral form***.
