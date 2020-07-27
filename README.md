@@ -115,7 +115,7 @@
 5. Write a Java Program to print the ***Matrix Spiral form***.
 6. Write a Java Program to find ***Matrix Determinent***.
 7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/IdentityMatrix.java)
-8. Check whether the Given Matrix is ***Sparx Matrix or NOT***
+8. Check whether the Given Matrix is ***Sparx Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
 9. Display the ***Lower Triangular Matrix***
 10. Display the ***Upper Triangular Matrix***
 
