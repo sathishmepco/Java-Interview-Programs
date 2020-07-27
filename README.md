@@ -118,6 +118,7 @@
 8. Check whether the Given Matrix is ***Sparx Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
 9. Display the ***Lower Triangular Matrix***
 10. Display the ***Upper Triangular Matrix***
+11. Find sum of each row and each column of the Matrix.
 
 # Print the Series
 1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
