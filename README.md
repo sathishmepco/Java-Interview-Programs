@@ -111,7 +111,7 @@
 1. Write a Java Program to ***Add two Matrices.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixAddition.java)
 2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixSubtraction.java)
 3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
-4. Write a Java Program to ***Multiply Two Matrices.***
+4. Write a Java Program to ***Multiply Two Matrices.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixMultiplication.java)
 5. Write a Java Program to print the ***Matrix Spiral form***.
 6. Write a Java Program to find ***Matrix Determinent***.
 7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/IdentityMatrix.java)
