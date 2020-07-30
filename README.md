@@ -113,12 +113,11 @@
 3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixTranspose.java)
 4. Write a Java Program to ***Multiply Two Matrices.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixMultiplication.java)
 5. Write a Java Program to print the ***Matrix Spiral form***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixInSpiralForm.java)
-6. Write a Java Program to find ***Matrix Determinent***.
-7. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/IdentityMatrix.java)
-8. Check whether the Given Matrix is ***Sparx Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
-9. Display the ***Lower Triangular Matrix***
-10. Display the ***Upper Triangular Matrix***
-11. Find sum of each row and each column of the Matrix.
+6. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/IdentityMatrix.java)
+7. Check whether the Given Matrix is ***Sparx Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
+8. Display the ***Lower Triangular Matrix*** [[Solution]](InterviewPrograms/src/com/java/matrix/LowerTriangularMatrix.java)
+9. Display the ***Upper Triangular Matrix***
+10. Find sum of each row and each column of the Matrix.
 
 # Print the Series
 1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
