@@ -144,7 +144,7 @@
 ```
 2 9 28 65 126 217 344
 ```
-7. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/PowersOf2.java)
+7. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/GeometricProgression.java)
 ```
 1 2 4 8 16 32 64 128 256 512 1024 ......
 ```
