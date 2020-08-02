@@ -144,9 +144,9 @@
 ```
 1 2 3 2 3 4 3 4 5 4 5 4 5 6 5 6 5 6 7 ....
 ```
-7. Write the Java Program to print the following series
+7. Write the Java Program to print the following series [[Solution]](InterviewPrograms/src/com/java/series/Series1.java)
 ```
-1 2 9 28 65 126 217 344
+2 9 28 65 126 217 344
 ```
 8. Write the Java Program to print the following series (Geometric progression)
 ```
