@@ -140,33 +140,33 @@
 ```
 1 2 4 7 11 16 22 29 .....
 ```
-6. Write the Java Program to print the following series
-```
-1 2 3 2 3 4 3 4 5 4 5 4 5 6 5 6 5 6 7 ....
-```
-7. Write the Java Program to print the following series [[Solution]](InterviewPrograms/src/com/java/series/Series1.java)
+6. Write the Java Program to print the following series [[Solution]](InterviewPrograms/src/com/java/series/Series1.java)
 ```
 2 9 28 65 126 217 344
 ```
-8. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/PowersOf2.java)
+7. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/PowersOf2.java)
 ```
 1 2 4 8 16 32 64 128 256 512 1024 ......
 ```
-9. Write the Java Program to print the following series (Arithmetic progression)
+8. Write the Java Program to print the following series (Arithmetic progression)
 ```
 0 5 10 15 20 25 30 35 ....
 ```
-10. Write the Java Program to print the following series (Fibonacci Series)
+9. Write the Java Program to print the following series (Fibonacci Series)
 ```
 1 1 2 3 5 8 13 21 34 55 89 .....
 ```
-11. Write the Java Program to print the following series (Prime Number Series)
+10. Write the Java Program to print the following series (Prime Number Series)
 ```
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
 ```
-12. Write the Java Program to print the following series (Triangular Number Series)
+11. Write the Java Program to print the following series (Triangular Number Series)
 ```
 1 3 6 10 15 21 28 36 45 55 .....
+```
+12. Write the Java Program to print the following series
+```
+1 2 3 2 3 4 3 4 5 4 5 4 5 6 5 6 5 6 7 ....
 ```
 
 # Pattern Questions
