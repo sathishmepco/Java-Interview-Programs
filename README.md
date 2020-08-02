@@ -148,9 +148,9 @@
 ```
 2 9 28 65 126 217 344
 ```
-8. Write the Java Program to print the following series (Geometric progression)
+8. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/PowersOf2.java)
 ```
-2 4 8 16 32 64 128 256 512 1024 ......
+1 2 4 8 16 32 64 128 256 512 1024 ......
 ```
 9. Write the Java Program to print the following series (Arithmetic progression)
 ```
