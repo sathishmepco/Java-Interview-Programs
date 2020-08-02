@@ -136,7 +136,7 @@
 ```
 10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1 10
 ```
-5. Write the Java Program to print the following series
+5. Write the Java Program to print the following series [[Solution]](InterviewPrograms/src/com/java/series/QuadraticSequence.java)
 ```
 1 2 4 7 11 16 22 29 .....
 ```
