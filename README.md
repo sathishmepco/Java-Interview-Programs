@@ -160,7 +160,7 @@
 ```
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
 ```
-11. Write the Java Program to print the following series (Triangular Number Series)
+11. Write the Java Program to print the following series (Triangular Number Series) [[Solution]](InterviewPrograms/src/com/java/series/TriangularSeries.java)
 ```
 1 3 6 10 15 21 28 36 45 55 .....
 ```
