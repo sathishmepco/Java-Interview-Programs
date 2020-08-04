@@ -22,7 +22,7 @@ public class DigitsOfNumber {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter any positive integer :: ");
-		int num = Integer.parseInt(scanner.nextLine().trim());
+		int num = scanner.nextInt();
 		
 		ArrayList<Integer> digitsList = new ArrayList<>();
 		while(num > 0){

@@ -36,21 +36,22 @@ public class FactorialUsingRecursion {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the any number : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 		
 		int result = factorial(N);
 		
-		String output = String.format("Factorial of %d is %d", N,result);
-		System.out.println(output);
+		System.out.println("Factorial of "+N+" is ");
+		System.out.println(result);
+		
 		scanner.close();
 	}
 }
 /*
 	OUTPUT
-	
 	Enter the any number : 5
 	Factorial of 5 is 120
 	
+	OUTPUT
 	Enter the any number : 10
 	Factorial of 10 is 3628800
 */

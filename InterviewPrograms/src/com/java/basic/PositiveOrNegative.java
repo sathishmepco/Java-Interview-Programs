@@ -20,7 +20,7 @@ public class PositiveOrNegative {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter any integer : ");
 		
-		int n = Integer.parseInt(scanner.nextLine().trim());
+		int n = scanner.nextInt();
 		if(n > 0 )
 			System.out.println(n+" is a Positive Number.");
 		else if( n < 0 )
@@ -33,13 +33,14 @@ public class PositiveOrNegative {
 }
 /*
 	OUTPUT
-	
 	Enter any integer : 155
 	155 is a Positive Number.
 
+	OUTPUT
 	Enter any integer : -77
 	-77 is a Negative Number.
 
+	OUTPUT
 	Enter any integer : 0
 	Zero is neither Positive nor Negative.
 */

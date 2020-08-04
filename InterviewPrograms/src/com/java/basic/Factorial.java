@@ -15,7 +15,7 @@ import java.util.Scanner;
  *  n! can also be written as
  *  n! = n * (n-1)!
  *  
- * eg: Factorial 4 ( 4! ) is equal to 24.
+ * say N = 4: Factorial 4 ( 4! ) is equal to 24.
  * 4! = 4 * 3 * 2 * 1;
  * 5! = 5 * 4 * 3 * 2 * 1;
  * 5! = 5 * 4!
@@ -25,7 +25,7 @@ public class Factorial {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the any number : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 		
 		int result =1;
 		for(int i=1; i<=N; i++)
@@ -38,11 +38,10 @@ public class Factorial {
 }
 /*
 	OUTPUT
-	
 	Enter the any number : 5
 	Factorial of 5 is 120
 	
+	OUTPUT
 	Enter the any number : 10
 	Factorial of 10 is 3628800
-
 */

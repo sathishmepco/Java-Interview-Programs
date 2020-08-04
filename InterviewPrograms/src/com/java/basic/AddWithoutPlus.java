@@ -5,7 +5,7 @@ package com.java.basic;
  * 
  * Use bitwise operators instead of using + operator
  * bitwise and = &
- * xor operator = ^
+ * XOR operator = ^
  * shift operator = <<
  *  
  */

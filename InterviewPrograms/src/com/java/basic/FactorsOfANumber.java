@@ -19,7 +19,7 @@ public class FactorsOfANumber {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter any positive integer :: ");
-		int num = Integer.parseInt(scanner.nextLine().trim());
+		int num = scanner.nextInt();
 		
 		System.out.println("The factors of the given number are :");
 		printFactors(num);
@@ -40,6 +40,7 @@ public class FactorsOfANumber {
 	The factors of the given number are :
 	1, 2, 4, 5, 8, 10, 20, 40
 	
+	OUTPUT
 	Enter any positive integer :: 75
 	The factors of the given number are :
 	1, 3, 5, 15, 25, 75

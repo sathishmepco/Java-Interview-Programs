@@ -17,7 +17,7 @@ public class EvenOrOdd {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the any number : ");
-		int num = Integer.parseInt(scanner.nextLine().trim());
+		int num = scanner.nextInt();
 		if( num % 2 == 0)
 			System.out.println("Given number is EVEN");
 		else
@@ -27,10 +27,10 @@ public class EvenOrOdd {
 }
 /*
 	OUTPUT
-	
 	Enter the any number : 22
 	Given number is EVEN
 	
+	OUTPUT
 	Enter the any number : 25
 	Given number is ODD
 */

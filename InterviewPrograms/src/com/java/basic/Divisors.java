@@ -22,7 +22,7 @@ public class Divisors {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the N value : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 		
 		TreeSet<Integer> divisors = new TreeSet<>();
 		for(int i=1;i<N;i++){
@@ -44,11 +44,13 @@ public class Divisors {
 	}
 }
 /*
+	OUTPUT
 	Enter the N value : 45
 	The divisors of 45 are : 
 	[1, 3, 5, 9, 15, 45]
 	Number of Divisors are : 6
 
+	OUTPUT
 	Enter the N value : 60
 	The divisors of 60 are : 
 	[1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60]
