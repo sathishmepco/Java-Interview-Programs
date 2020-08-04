@@ -3,10 +3,8 @@ package com.java.matrix;
 /*
  * Sparse Matrix
  * 
- * First count the number of zero elements in 
- * the matrix. 
- * Then calculate the size of the
- * matrix (row*column).
+ * First count the number of zero elements in the matrix. 
+ * Then calculate the size of the matrix (row*column).
  * 
  * For the matrix to be Sparse Matrix,
  * count of the zero elements should be greater 

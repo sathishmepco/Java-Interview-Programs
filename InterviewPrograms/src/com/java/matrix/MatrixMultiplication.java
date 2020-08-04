@@ -82,6 +82,7 @@ public class MatrixMultiplication {
 	}
 }
 /*
+	OUTPUT
 	Matrix A is :: 
 	1 1 
 	2 2 

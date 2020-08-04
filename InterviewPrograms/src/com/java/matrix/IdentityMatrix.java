@@ -48,10 +48,10 @@ public class IdentityMatrix {
 				{0,0,1}
 				};*/
 		int row = 4;
-		int col = 4;
+		int column = 4;
 		
-		//row and col should be same to make square matrix
-		if(row != col){
+		//row and column should be same to make square matrix
+		if(row != column){
 			System.out.println("Given matrix is NOT a Identity Matrix");
 			return;
 		}
@@ -65,7 +65,7 @@ public class IdentityMatrix {
 				
 		//rest of the elements should be 0
 		for(int i=0;i<row;i++)
-			for(int j=0;j<col;j++)
+			for(int j=0;j<column;j++)
 				if(i != j && matrix[i][j] != 0){
 					System.out.println("Given matrix is NOT a Identity Matrix");
 					return;
@@ -77,40 +77,35 @@ public class IdentityMatrix {
 	}
 }
 /*
-	INPUT
+	OUTPUT
 	matrix[][] = {
 				{1,0,0,0},
 				{0,1,0,0},
 				{0,0,1,0},
 				{0,0,0,1}
 				};
-	OUTPUT
 	Given matrix is a Identity Matrix
 	
-	INPUT
+	OUTPUT
 	matrix[][] = {
 				{1,0,0},
 				{0,1,0},
 				{0,0,1},
 				};
-	OUTPUT
 	Given matrix is a Identity Matrix
 
-	INPUT
+	OUTPUT
 	matrix[][] = {
 				{1,1,1},
 				{0,1,1},
 				{1,0,1},
 				};
-	OUTPUT
 	Given matrix is NOT a Identity Matrix
 	
-	INPUT
+	OUTPUT
 	matrix[][] = {
 				{1,0,0},
 				{0,1,0}
 				};
-	OUTPUT
-	Given matrix is NOT a Identity Matrix
-	
+	Given matrix is NOT a Identity Matrix	
 */
