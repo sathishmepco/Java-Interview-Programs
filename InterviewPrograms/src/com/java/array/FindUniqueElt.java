@@ -42,12 +42,12 @@ public class FindUniqueElt {
 }
 /*
 	OUTPUT
-	
 	Given array is :
 	1 2 3 4 5 6 1 2 3 4 5 
  	Unique element in the array is : 6
  	
+ 	OUTPUT
  	Given array is :
-	 
+	{5, 10, 33, 42, 5, 42, 10};
  	Unique element in the array is : 33
 */

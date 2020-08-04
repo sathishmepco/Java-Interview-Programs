@@ -37,11 +37,11 @@ public class Average {
 }
 /*
 	OUTPUT
-	
 	The Given Array is : 
 	10 20 30 40 50 60 70 80 90 100 
  	The Average of Given Array is : 55.0
 
+	OUTPUT
 	The Given Array is : 
 	10 10 10 10 10 
 	The Average of Given Array is : 10.0

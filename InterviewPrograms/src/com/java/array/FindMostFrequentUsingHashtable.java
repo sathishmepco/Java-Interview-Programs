@@ -54,7 +54,7 @@ import java.util.Hashtable;
  * 1 --> 1
  * 
  * So 3 is the output
- * Because 3 repeated 3 times (max frequncy).
+ * Because 3 repeated 3 times (max frequency).
  * 
  */
 public class FindMostFrequentUsingHashtable {
@@ -84,21 +84,21 @@ public class FindMostFrequentUsingHashtable {
 	}
 }
 /*
-	Input
+	INPUT
 	{3, 9, 1, 3, 6, 3, 8, 1, 6}
-	Output
+	OUTPUT
 	Most Frequent element is :: 3
 	Frequency of the element is :: 3
 	
-	Input
+	INPUT
 	{1, 9, 1, 3, 2, 3, 10}
-	Output
+	OUTPUT
 	Most Frequent element is :: 1
 	Frequency of the element is :: 2
 	
-	Input
+	INPUT
 	{2, 1, 2, 2, 1, 3}
-	Output
+	OUTPUT
 	Most Frequent element is :: 2
 	Frequency of the element is :: 3
 */

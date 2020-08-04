@@ -1,13 +1,25 @@
 package com.java.array;
 
+/*
+ *  Find All Possible Subsets of Given Array
+ *  
+ *  say Given array is
+ *  {a, b, c, d}
+ *  
+ *  Possible subsets are 
+ *	{a} {b} {c} {d}
+ *	{a, b} {a, c} {a, d} {b, c} {b, d} {c, d}
+ *	{a, b, c} {a, b, d} {a, c, d} {b, c, d}
+ *	{a, b, c, d}
+ *   
+ */
 public class FindingAllSubsets {
-	
 	public static void main(String[] args) {
 		//solution 1 follows bitwise approach
-//		solution1();
+		solution1();
 		
 		//solution 2 follows recursion approach
-		solution2();
+//		solution2();
 	}
 
 	public static void solution1() {
@@ -45,8 +57,22 @@ public class FindingAllSubsets {
 }
 
 /*
- * 
- * Input: S = {a, b, c, d} Output: {}, {a} , {b}, {c}, {d}, {a,b}, {a,c}, {a,d},
- * {b,c}, {b,d}, {c,d}, {a,b,c}, {a,b,d}, {a,c,d}, {b,c,d}, {a,b,c,d}
- * 
- */
+	OUTPUT
+	input array is :: {a, b, c, d}
+	{ }
+	{ a }
+	{ b }
+	{ a b }
+	{ c }
+	{ a c }
+	{ b c }
+	{ a b c }
+	{ d }
+	{ a d }
+	{ b d }
+	{ a b d }
+	{ c d }
+	{ a c d }
+	{ b c d }
+	{ a b c d }
+*/

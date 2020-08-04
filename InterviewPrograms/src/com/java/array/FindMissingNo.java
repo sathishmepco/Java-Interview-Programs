@@ -58,11 +58,11 @@ public class FindMissingNo {
 }
 /*
 	OUTPUT
-	
 	The Given Array is : 
 	2 4 1 6 7 5 3 9 
 	Missing Number is : 8
 	
+	OUTPUT
 	The Given Array is : 
 	2 4 1 6 3 
 	Missing Number is : 5

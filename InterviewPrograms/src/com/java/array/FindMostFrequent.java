@@ -61,21 +61,21 @@ public class FindMostFrequent {
 	}
 }
 /*
-	Input
+	INPUT
 	{3, 9, 1, 3, 6, 3, 8, 1, 6}
-	Output
+	OUTPUT
 	Most Frequent element is :: 3
 	Occurred 3 times.
 	
-	Input
+	INPUT
 	{1, 9, 1, 3, 2, 3, 10}
-	Output
+	OUTPUT
 	Most Frequent element is :: 1
 	Occurred 2 times.
 
-	Input
+	INPUT
 	{2, 1, 2, 2, 1, 3}
-	Output
+	OUTPUT
 	Most Frequent element is :: 2
 	Occurred 3 times.
 */
