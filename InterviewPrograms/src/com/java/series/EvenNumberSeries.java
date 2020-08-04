@@ -14,9 +14,10 @@ import java.util.Scanner;
 public class EvenNumberSeries {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the N(end value) value for even number series : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		System.out.println("Enter the N value : ");
+		int N = scanner.nextInt();
 		
+		System.out.println("Even numbers up to "+N);
 		for(int i=0;i<=N;i+=2)
 			System.out.print(i+" ");
 		
@@ -26,11 +27,11 @@ public class EvenNumberSeries {
 
 /*
 	OUTPUT
-	
-	Enter the N(end value) value for even number series : 25
+	Enter the N value : 25
+	Even numbers up to 25
 	0 2 4 6 8 10 12 14 16 18 20 22 24
 	
-	Enter the N(end value) value for even number series : 14
-	0 2 4 6 8 10 12 14
-	 
+	Enter the N value : 14
+	Even numbers up to 14
+	0 2 4 6 8 10 12 14 
 */

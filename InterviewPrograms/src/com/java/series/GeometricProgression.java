@@ -36,11 +36,11 @@ public class GeometricProgression {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the start value of the series : ");
-		int a = Integer.parseInt(scanner.nextLine().trim());
+		int a = scanner.nextInt();
 		System.out.println("Enter the common ratio : ");
-		int r = Integer.parseInt(scanner.nextLine().trim());
+		int r = scanner.nextInt();
 		System.out.println("Enter the value (N) for the series : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 	
 		//printing the first value
 		System.out.print(a+" ");

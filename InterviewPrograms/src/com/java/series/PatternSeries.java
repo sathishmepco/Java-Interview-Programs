@@ -15,7 +15,7 @@ public class PatternSeries {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the N value for the series : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 		
 		int baseValue = 3;
 		int result = 0;

@@ -14,9 +14,10 @@ import java.util.Scanner;
 public class OddNumberSeries {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the N(end value) value for even number series : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		System.out.println("Enter the N value :");
+		int N = scanner.nextInt();
 		
+		System.out.println("ODD numbers up to "+N);
 		for(int i=1;i<=N;i+=2)
 			System.out.print(i+" ");
 		
@@ -24,12 +25,13 @@ public class OddNumberSeries {
 	}
 }
 /*
-OUTPUT
+	OUTPUT
 
-Enter the N(end value) value for even number series : 20
-1 3 5 7 9 11 13 15 17 19
+	Enter the N value : 20
+	ODD numbers up to 20
+	1 3 5 7 9 11 13 15 17 19
 
-Enter the N(end value) value for even number series : 13
-1 3 5 7 9 11 13
- 
+	Enter the N value : 13
+	ODD numbers up to 13
+	1 3 5 7 9 11 13
 */

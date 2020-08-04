@@ -4,7 +4,7 @@ package com.java.series;
  * Triangular Number Series
  * 
  * A triangular number or triangle number counts 
- * objects arranged in an equilateral triangle 
+ * objects arranged in an Equilateral triangle 
  * (thus triangular numbers are a type of figurate numbers, 
  * other examples being square numbers and cube numbers). 
  * 

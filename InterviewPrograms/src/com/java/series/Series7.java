@@ -24,7 +24,7 @@ public class Series7 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the value (N) for the series : ");
-		int N = Integer.parseInt(scanner.nextLine().trim());
+		int N = scanner.nextInt();
 	
 		if(N <= 0){
 			System.out.println("Cannot generate the Series!");
