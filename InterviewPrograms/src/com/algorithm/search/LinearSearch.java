@@ -2,7 +2,7 @@ package com.algorithm.search;
 
 /*
  * Linear Search
- * 
+ * --------------
  * In computer science, a linear search or 
  * sequential search is a method for finding 
  * an element within a list.
@@ -12,7 +12,7 @@ package com.algorithm.search;
  * whole list has been searched.
  * 
  * Time Complexity
- * 
+ * ----------------
  * Worst Case 	O(n)
  * Best Case 	O(1)
  */

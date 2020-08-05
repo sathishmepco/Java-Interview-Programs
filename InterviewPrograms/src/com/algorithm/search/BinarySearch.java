@@ -2,7 +2,7 @@ package com.algorithm.search;
 
 /*
  * Binary Search
- * 
+ * -------------- 
  * In computer science, binary search, also known as 
  * half-interval search is a search algorithm that 
  * finds the position of a target value within a sorted array.
@@ -16,7 +16,7 @@ package com.algorithm.search;
  * remaining half being empty, the target is not in the array.
  * 
  * Time Complexity
- * 
+ * ----------------
  * Worst Case 	O(log n)
  * Best Case	O(1)
  * 
