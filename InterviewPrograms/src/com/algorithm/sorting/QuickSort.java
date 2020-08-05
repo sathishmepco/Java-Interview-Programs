@@ -1,14 +1,35 @@
 package com.algorithm.sorting;
 
 import java.util.Arrays;
-
+/*
+ * Quick Sort
+ * ----------
+ * Quicksort (partition-exchange sort) is an efficient 
+ * sorting algorithm.
+ * 
+ * Quicksort is a divide-and-conquer algorithm. 
+ * It works by selecting a 'pivot' element from the 
+ * array and partitioning the other elements into 
+ * two sub-arrays, according to whether they are 
+ * less than or greater than the pivot. 
+ * The sub-arrays are then sorted recursively. 
+ * This can be done in-place, requiring small additional 
+ * amounts of memory to perform the sorting.
+ *  
+ * Time Complexity
+ * ---------------
+ * Worst Case 	: O(n^2)
+ * Best Case 	: O(n*log(n))
+ * 
+ */
 public class QuickSort {
-
 	public static void main(String[] args) {
 		int array[] = {90,23,101,45,65,23,67,89,34,23};
-		System.out.println("Before Sorting :: "+Arrays.toString(array));
+		System.out.println("Before Sorting :: ");
+        System.out.println(Arrays.toString(array));
         sort(array,0,array.length-1);
-        System.out.println("After Sorting :: "+Arrays.toString(array));
+        System.out.println("After Sorting :: ");
+        System.out.println(Arrays.toString(array));
 	}
 
 	public static void sort(int array[], int low, int high) {
@@ -36,3 +57,10 @@ public class QuickSort {
 		return i + 1;
 	}
 }
+/*
+	OUTPUT
+	Before Sorting :: 
+	[90, 23, 101, 45, 65, 23, 67, 89, 34, 23]
+	After Sorting :: 
+	[23, 23, 23, 34, 45, 65, 67, 89, 90, 101]
+*/

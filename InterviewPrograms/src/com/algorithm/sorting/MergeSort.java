@@ -2,12 +2,30 @@ package com.algorithm.sorting;
 
 import java.util.Arrays;
 
+/*
+ * Merge Sort
+ * ----------
+ * In computer science, merge sort is an efficient, general-purpose, 
+ * comparison-based sorting algorithm.
+ * Merge sort is a divide and conquer algorithm. 
+ * 
+ * It divides input array in two halves, calls itself for 
+ * the two halves and then merges the two sorted halves. 
+ * 
+ * 
+ * Time Complexity
+ * ---------------
+ * Worst Case : O(n*log(n))
+ * Best Case : O(n*log(n))
+ */
 public class MergeSort {
 	public static void main(String[] args) {
 		int array[] = {90,23,101,45,65,23,67,89,34,23};
-		System.out.println("Before Sorting :: "+Arrays.toString(array));
+		System.out.println("Before Sorting :: ");
+        System.out.println(Arrays.toString(array));
         sort(array,0,array.length-1);
-        System.out.println("After Sorting :: "+Arrays.toString(array));
+        System.out.println("After Sorting :: ");
+        System.out.println(Arrays.toString(array));
 	}
 
 	public static void mergeSort(int array[], int leftIndex, int midIndex, int rightIndex) {
@@ -56,3 +74,11 @@ public class MergeSort {
 		}
 	}
 }
+
+/*
+	OUTPUT
+	Before Sorting :: 
+	[90, 23, 101, 45, 65, 23, 67, 89, 34, 23]
+	After Sorting :: 
+	[23, 23, 23, 34, 45, 65, 67, 89, 90, 101]
+*/
