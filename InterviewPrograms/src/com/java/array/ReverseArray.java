@@ -1,7 +1,8 @@
 package com.java.array;
 
 /*
- * 	Reverse the Array without using additional Array
+ * Reverse the Array without using additional Array
+ * ------------------------------------------------
  * 
  * given array[]= {1,2,3,4,5,6,7,8,9,10};
  * reversed array[]= {10,9,8,7,6,5,4,3,2,1};
@@ -22,7 +23,6 @@ package com.java.array;
 
 public class ReverseArray {
 	public static void main(String[] args) {
-		
 		int array[]= {1,2,3,4,5,6,7,8,9,10};
 		int N = array.length;
 		int temp;

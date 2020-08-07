@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 /*
  * Find All duplicate elements
- * 
+ * ---------------------------
  * Write java program to find all the duplicates
  * elements from the given array.
  *

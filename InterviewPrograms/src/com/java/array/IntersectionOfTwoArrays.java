@@ -1,10 +1,8 @@
 package com.java.array;
 
 /*
- * 	Find Intersection of Two Arrays
- * 
- * Write a Java Program to find the intersection of 
- * Two Arrays
+ * Find Intersection of Two Arrays
+ * --------------------------------
  * 
  * INTERSECTION
  * Common element in both arrays.

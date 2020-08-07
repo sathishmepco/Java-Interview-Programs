@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /*
  * Find the Pair (X,Y) whose sum is Z
+ * -----------------------------------
  * 
  * say the given array is {2,45,7,3,5,1,8,9} 
  * and Z = 10
@@ -11,6 +12,7 @@ import java.util.Arrays;
  * (2,8), (1,9), (3,7) are the pairs
  * 
  * Solution
+ * ---------
  * 1. Sort the given array (ascending order)
  * 2. Declare left pointer (l) which points to
  * left most element of the array (min of array)

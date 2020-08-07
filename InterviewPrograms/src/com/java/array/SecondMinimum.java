@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /*
 * Find the Second Minimum in the Given Array
+* -------------------------------------------
 * 
 * array {10,32,34,54,19,29,38,45}
 * minimum is 10, second minimum is 19
@@ -28,7 +29,6 @@ import java.util.Arrays;
 */
 public class SecondMinimum {
 	public static void main(String[] args) {
-		
 		int array[] = {10,32,34,54,19,29,38,45};
 	
 		// assume 0th index value is minimum
@@ -65,12 +65,9 @@ public class SecondMinimum {
 	}
 }
 /*
-
 	OUTPUT
-
 	Given array is : 
 	[10, 32, 34, 54, 19, 29, 38, 45]
 	Minimum value in the array is : 10
 	Second minimum value in the array is : 19
-  
 */

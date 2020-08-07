@@ -2,6 +2,7 @@ package com.java.array;
 
 /*
  * Find the Most Frequent Element in an Array
+ * -------------------------------------------
  * Using Brute Force Approach
  * 
  * For the each element, scan the entire array 

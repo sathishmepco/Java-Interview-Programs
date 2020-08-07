@@ -2,7 +2,7 @@ package com.java.array;
 
 /*
  * Move All the Zeros to Start of the Array
- * 
+ * -----------------------------------------
  * Assume the given array contains some zero
  * in some index positions.
  * 

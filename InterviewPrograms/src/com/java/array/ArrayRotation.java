@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /*
  * Rotate the Given array d times
- * 
+ * -------------------------------
  * Write java program to rotate (clockwise) the given array
  * d number of times.
  * 

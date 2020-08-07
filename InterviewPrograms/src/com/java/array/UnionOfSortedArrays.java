@@ -4,8 +4,8 @@ package com.java.array;
 import java.util.ArrayList;
 
 /*
- * 	Union Of Two Sorted Arrays
- * 
+ * Union Of Two Sorted Arrays
+ * --------------------------
  * The Union of Two Arrays Array1, Array2 is the 
  * new array which contains all the elements which are
  * either in array1 or in array2, or in both arrays.

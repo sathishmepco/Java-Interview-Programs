@@ -1,8 +1,9 @@
 package com.java.array;
 
 /*
- *	Calculate the Average of Given Array
- *
+ * Calculate the Average of Given Array
+ * -------------------------------------
+ * 
  * This is one basic program using array.
  * Steps
  * 1. Declare a variable sum with 0

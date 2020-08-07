@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /*
  * Find the Second Maximum in the Given Array
- * 
+ * ------------------------------------------
  * array {10,32,34,54,19,29,38,45}
  * max is 54, second max is 45
  * 
@@ -27,9 +27,7 @@ import java.util.Arrays;
  * then update only 2nd max value with ith value
  */
 public class SecondMaximum {
-	
 	public static void main(String[] args) {
-		
 		int array[] = {10,32,34,54,19,29,38,45};
 		
 		//assume 0th index value is maximum
@@ -67,7 +65,6 @@ public class SecondMaximum {
 
 /*
 	OUTPUT
-	
 	Given array is : 
 	[10, 32, 34, 54, 19, 29, 38, 45]
 	Max value in the array is : 54

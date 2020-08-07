@@ -4,8 +4,8 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 /*
- * 	Union Of Two Arrays using HashSet
- * 
+ * Union Of Two Arrays using HashSet
+ * ---------------------------------
  * The Union of Two Arrays Array1, Array2 is the 
  * new array which contains all the elements which are
  * either in array1 or in array2, or in both arrays.
@@ -58,7 +58,6 @@ public class UnionArrayUsingHashSet {
 }
 /*
 	OUTPUT
-	
 	Given Array 1 is : 
 	17 23 31 14 25 26 
 	Given Array 2 is : 

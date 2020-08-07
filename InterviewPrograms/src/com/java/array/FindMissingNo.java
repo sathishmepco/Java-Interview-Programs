@@ -1,7 +1,7 @@
 package com.java.array;
 /*
- *	Find the Missing Number in 1 to N
- *
+ * Find the Missing Number in 1 to N
+ * ----------------------------------
  * An array contains 1 to N numbers 
  * but one number in the array is missing
  * Write the java program to find the missing no
@@ -25,6 +25,7 @@ package com.java.array;
  *  missing no = 45 - 37
  * 
  * Note::
+ * ------
  * This approach will work only for array contains
  * value from 1 to n (order does not matter)
  */
@@ -40,7 +41,7 @@ public class FindMissingNo {
 			arraySum += v;
 
 		//array length is 8
-		//one no is missing, then n should by n+1
+		//one no is missing, then n should be n+1
 		// here 8+1
 		n = n+1;
 		

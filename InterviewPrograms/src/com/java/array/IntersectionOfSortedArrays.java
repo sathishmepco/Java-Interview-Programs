@@ -1,7 +1,8 @@
 package com.java.array;
 
 /*
- * 	Intersection of two Sorted Arrays
+ * Intersection of two Sorted Arrays
+ * ----------------------------------
  * 
  * Assume that both the given arrays are 
  * sorted arrays.
@@ -59,7 +60,6 @@ public class IntersectionOfSortedArrays {
 }
 /*
 	OUTPUT
-	
 	Given array 1 is : 
 	1 2 3 4 5 6 
 	Given array 2 is : 

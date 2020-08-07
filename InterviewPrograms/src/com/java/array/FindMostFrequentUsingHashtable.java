@@ -4,7 +4,7 @@ import java.util.Hashtable;
 
 /*
  * Find the Most Frequent Element in an Array
- * 
+ * ------------------------------------------
  * Using Hash Table
  * 
  * We can create a hash table and store elements and 

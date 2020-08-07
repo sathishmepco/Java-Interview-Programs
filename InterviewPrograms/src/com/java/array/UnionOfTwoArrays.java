@@ -1,8 +1,8 @@
 package com.java.array;
 
 /*
- * 	Union Of Two Arrays
- *
+ * Union Of Two Arrays
+ * -------------------
  * The Union of Two Arrays Array1, Array2 is the 
  * new array which contains all the elements which are
  * either in array1 or in array2, or in both arrays.
@@ -20,7 +20,6 @@ package com.java.array;
  * all these elements should present in UnionArray
  * 
  * UnionArray = {17, 23, 31, 14, 25, 26, 44, 8};
- * 
  * 
  */
 public class UnionOfTwoArrays {

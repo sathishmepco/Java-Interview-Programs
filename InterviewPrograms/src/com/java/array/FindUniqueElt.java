@@ -2,6 +2,7 @@ package com.java.array;
 
 /*
  * Find the only one unique Element in the Array
+ * ---------------------------------------------
  * 
  * In the given array only one element is 
  * occurred one time, all the other elements are
@@ -16,7 +17,7 @@ package com.java.array;
  *  Write the program to calculate 6
  * 
  * Solution
- * 
+ * --------
  * use ^ (XOR) operator
  * apply ^ (XOR) operator to all the values 
  * in the array.

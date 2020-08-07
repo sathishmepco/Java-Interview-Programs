@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /*
  * Find the Most Frequent Element in an Array
- * 
+ * ------------------------------------------
  * Using Sorting
  * 
  * Lets sort the given array. 
