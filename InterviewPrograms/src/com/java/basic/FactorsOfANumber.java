@@ -3,7 +3,8 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 	Factors of a Given Number
+ * Factors of a Given Number
+ * --------------------------
  * 
  * A number which divides the given number and gives
  * reminder as zero, then that number is called as Factor.
@@ -13,9 +14,9 @@ import java.util.Scanner;
  * 
  * say Given number is 40, factors are
  * 1, 2, 4, 5, 8, 10, 20, 40
+ * 
  */
 public class FactorsOfANumber {
-
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter any positive integer :: ");

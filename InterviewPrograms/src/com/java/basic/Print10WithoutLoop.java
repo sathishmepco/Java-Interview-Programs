@@ -1,13 +1,14 @@
 package com.java.basic;
 
 /*
- * Write the java program to print 1 to 10 
- * without using any loop
+ * Print 1 to 10 without using loop
+ * --------------------------------
  * 
- * Solution: use recursion to print without using loop
+ * Solution: 
+ * Use recursion to print without using loop
+ * 
  */
 public class Print10WithoutLoop {
-	
 	public static void main(String[] args) {
 		printWihtoutLoop(1);
 	}
@@ -18,7 +19,6 @@ public class Print10WithoutLoop {
 			printWihtoutLoop( n+1 );
 		}
 	}
-	
 }
 /*
 	OUTPUT

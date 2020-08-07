@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
- * 	Digits of a Given Number
- * 
+ * Digits of a Given Number
+ * -------------------------
  * For any positive number print the digits
  * of the number.
  * 

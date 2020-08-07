@@ -3,22 +3,21 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 	Swap Two Numbers
+ * Swap Two Numbers
+ * -----------------
+ * It is possible to swap two numbers without
+ * using third variable.
  * 
- * 	It is possible to swap two numbers without
- * 	using third variable.
- * 
- * 	Approach 1::
- *  using +, - operators
- *  a = 15, b = 20
+ * Approach 1::
+ * using +, - operators
+ * a = 15, b = 20
  *  
- *  a = a + b // after a = 35, b = 20
- *  b = a - b // after a = 35, b = 15
- *  a = a - b // after a = 20, b = 15 
+ * a = a + b // after a = 35, b = 20
+ * b = a - b // after a = 35, b = 15
+ * a = a - b // after a = 20, b = 15 
  *  
  */
 public class SwapApproach1 {
-	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the value for a : ");

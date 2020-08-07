@@ -3,16 +3,16 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 	Positive Or Negative
- * 
- *	An integer is a whole number that can be either 
- * 	greater than 0, called positive, or less than 0, 
- * 	called negative. 
+ * Positive Or Negative
+ * ---------------------
+ * An integer is a whole number that can be either 
+ * greater than 0, called positive, or less than 0, 
+ * called negative. 
  * 	
  * Zero is neither positive nor negative. 
  * 
- *  100 is Positive Number
- *  -22 is Negative Number
+ * 100 is Positive Number
+ * -22 is Negative Number
  *  
  */
 public class PositiveOrNegative {

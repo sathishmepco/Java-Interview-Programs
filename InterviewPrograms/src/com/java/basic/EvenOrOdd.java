@@ -3,14 +3,14 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 		EVEN OR ODD
- * 
- * 	Divide the given number by 2 
- *  If the reminder is 0 then its EVEN
- *  If the reminder is 1 then its ODD
+ * EVEN OR ODD
+ * ------------
+ * Divide the given number by 2 
+ * If the reminder is 0 then its EVEN
+ * If the reminder is 1 then its ODD
  *  
- *  22 EVEN number
- *  23 ODD number
+ * 22 EVEN number
+ * 23 ODD number
  *  
  */
 public class EvenOrOdd {

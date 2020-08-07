@@ -4,8 +4,9 @@ import java.util.Scanner;
 import java.util.TreeSet;
 
 /*
- * 	Divisors of N
- *	
+ * Divisors of N
+ * -------------
+ * 
  * This program finds all the divisors of the
  * Given number N
  *	
@@ -18,7 +19,6 @@ import java.util.TreeSet;
  */
 
 public class Divisors {
-	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the N value : ");

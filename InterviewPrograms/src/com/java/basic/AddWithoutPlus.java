@@ -2,7 +2,7 @@ package com.java.basic;
 
 /*
  * Add two numbers a,b without using + operator
- * 
+ * --------------------------------------------
  * Use bitwise operators instead of using + operator
  * bitwise and = &
  * XOR operator = ^

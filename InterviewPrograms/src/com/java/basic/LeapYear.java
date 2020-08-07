@@ -3,10 +3,11 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 		LEAP YEAR
- * 	This program is to check the given number is leap year or not.
+ * LEAP YEAR
+ * ---------
+ * This program is to check the given number is leap year or not.
  *
- * 	Leap Year Conditions
+ * Leap Year Conditions
  * 1. Year should be divisible by 4
  * 2. If it is divisible by 100 then should be divisible by 400
  * 3. If both conditions are not satisfied, then given input is not leap year.

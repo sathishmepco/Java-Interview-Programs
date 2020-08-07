@@ -3,8 +3,8 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 	Factorial
- * 
+ * Factorial
+ * ----------
  * In mathematics, the factorial of a positive integer n, 
  * denoted by n!, is the product of all positive integers 
  * less than or equal to n:
@@ -31,8 +31,8 @@ public class Factorial {
 		for(int i=1; i<=N; i++)
 			result = result * i;
 		
-		String output = String.format("Factorial of %d is %d", N,result);
-		System.out.println(output);
+		System.out.print("Factorial of "+N);
+		System.out.print(" is "+result);
 		scanner.close();
 	}
 }

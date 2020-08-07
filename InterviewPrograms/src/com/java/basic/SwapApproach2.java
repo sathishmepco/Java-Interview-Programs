@@ -3,18 +3,18 @@ package com.java.basic;
 import java.util.Scanner;
 
 /*
- * 	Swap Two Numbers
+ * Swap Two Numbers
+ * -----------------
+ * It is possible to swap two numbers without
+ * using third variable.
  * 
- * 	It is possible to swap two numbers without
- * 	using third variable.
- * 
- * 	Approach 2::
- *  using *, / operators (Multiplication , Division)
- *  a = 15, b = 10
+ * Approach 2::
+ * using *, / operators (Multiplication , Division)
+ * a = 15, b = 10
  *  
- *  a = a * b // after a = 150, b = 10
- *  b = a / b // after a = 150, b = 15
- *  a = a / b // after a = 10, b = 15 
+ * a = a * b // after a = 150, b = 10
+ * b = a / b // after a = 150, b = 15
+ * a = a / b // after a = 10, b = 15 
  *  
  */
 public class SwapApproach2 {

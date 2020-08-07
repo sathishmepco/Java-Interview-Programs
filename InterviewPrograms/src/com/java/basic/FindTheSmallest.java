@@ -1,7 +1,7 @@
 package com.java.basic;
 /*
  * Find the Smallest of 3 (a,b,c) without using < or > symbol
- * 
+ * ----------------------------------------------------------
  * Mostly to find max or min we use < or > symbol
  * But here without using < or > symbol how to find smallest
  * 
