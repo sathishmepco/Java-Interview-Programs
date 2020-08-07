@@ -2,7 +2,7 @@ package com.java.matrix;
 
 /*
  * Sparse Matrix
- * 
+ * --------------
  * First count the number of zero elements in the matrix. 
  * Then calculate the size of the matrix (row*column).
  * 

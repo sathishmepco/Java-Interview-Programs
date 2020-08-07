@@ -2,6 +2,7 @@ package com.java.matrix;
 
 /*
  * Print the Lower Triangular Matrix of Given Matrix
+ * -------------------------------------------------
  * 
  * say Given Matrix is 
  * 1 1 1

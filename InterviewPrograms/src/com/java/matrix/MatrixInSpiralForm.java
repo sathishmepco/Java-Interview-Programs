@@ -2,7 +2,7 @@ package com.java.matrix;
 
 /*
  * Print the Matrix in the Spiral Form
- * 
+ * ------------------------------------
  * say given matrix is 
  * 1	2	3
  * 4	5	6

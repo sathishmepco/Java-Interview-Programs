@@ -1,8 +1,8 @@
 package com.java.matrix;
 
 /*
- * 	Print each Row Sum & each Column Sum
- * 
+ * Print each Row Sum & each Column Sum
+ * -------------------------------------
  * Traverse each row and calculate the sum of all
  * elements of the row then print it.
  * 

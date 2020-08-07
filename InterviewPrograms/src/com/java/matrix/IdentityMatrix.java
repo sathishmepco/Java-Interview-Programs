@@ -2,7 +2,7 @@ package com.java.matrix;
 
 /*
  * Identity Matrix
- * 
+ * ----------------
  * If a matrix is a Identity matrix then it should 
  * follow all the conditions
  * 1. It should be square matrix row == column
@@ -13,6 +13,7 @@ package com.java.matrix;
  * then the matrix is not Identity Matrix.
  * 
  * Examples of Identity matrix
+ * ----------------------------
  * 1 0 0 
  * 0 1 0
  * 0 0 1
@@ -23,6 +24,7 @@ package com.java.matrix;
  * 0 0 0 1
  * 
  * NOT Identity matrix
+ * --------------------
  * 1 2
  * 3 4
  * 

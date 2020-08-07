@@ -2,7 +2,7 @@ package com.java.matrix;
 
 /*
  * Multiply Two Matrices
- * 
+ * ----------------------
  * Matrix multiplication is possible only when
  * number of columns of first matrix equals to 
  * number of rows of second matrix.

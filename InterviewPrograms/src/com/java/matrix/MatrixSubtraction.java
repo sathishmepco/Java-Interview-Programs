@@ -1,7 +1,7 @@
 package com.java.matrix;
 /*
  * Subtract Two Matrices
- * 
+ * ---------------------
  * Subtraction is possible only when both A & B
  * matrices should have same dimensions, that is
  * both matrix should have same number of rows

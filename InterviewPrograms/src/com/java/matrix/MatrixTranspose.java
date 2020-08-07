@@ -2,6 +2,7 @@ package com.java.matrix;
 
 /*
  * Transpose of Matrix
+ * --------------------
  * It is simply a flipped version of original matrix.
  * Rows are the columns of original matrix
  * Columns are the rows of the original matrix

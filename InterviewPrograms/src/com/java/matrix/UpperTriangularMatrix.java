@@ -1,7 +1,7 @@
 package com.java.matrix;
 /*
- *	Print the Upper Triangular Matrix of Given Matrix
- *	
+ * Print the Upper Triangular Matrix of Given Matrix
+ * -------------------------------------------------
  * say Given Matrix is 
  * 1 1 1
  * 2 2 2
