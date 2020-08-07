@@ -64,7 +64,7 @@
 9. Write a Java Program to find the ***Union of Tow Arrays using HashSet***. [[Solution]](InterviewPrograms/src/com/java/array/UnionArrayUsingHashSet.java)
 10. Write a Java Program to ***Move all Zero to End of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToEnd.java)
 11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](InterviewPrograms/src/com/java/array/MoveAllZerosToFront.java)
-12. Write a Java Program to reverse the given array without using additional Array. [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
+12. Write a Java Program to ***Reverse the given array without using additional Array.*** [[Solution]](InterviewPrograms/src/com/java/array/ReverseArray.java)
 13. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequent.java)
 14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
 15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
