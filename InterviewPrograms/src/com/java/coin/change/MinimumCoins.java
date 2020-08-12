@@ -1,16 +1,13 @@
 package com.java.coin.change;
 
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class MinimumCoins {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		int noOfCoins = Integer.parseInt(scanner.nextLine().trim());
-		int coins[] = new int[noOfCoins];
-		for(int i=0;i<noOfCoins;i++)
-			coins[i] = Integer.parseInt(scanner.nextLine().trim());
-		int n = Integer.parseInt(scanner.nextLine().trim());
+//		int n = 40;
+//		int coins[] = {5,10,20};
+		
+		int n = 5;
+		int coins[] = {1,2};
+		int noOfCoins = coins.length;
 		
 		int table[] = new int[n+1];
 		table[0] = 0;
@@ -25,29 +22,21 @@ public class MinimumCoins {
 					if(sub_res != Integer.MAX_VALUE && sub_res+1 < table[i])
 						table[i] = sub_res+1;
 				}
-//			System.out.println(i+" "+Arrays.toString(table));
 		}
-		System.out.print(table[n]);
-		scanner.close();
+		System.out.print(table[n]+" coins are enough to give change.");
 	}
 }
 /*
-
-Input 
-4
-7
-3
-2
-6
-13
-Output
-2
-
-Input
-3
-1
-2
-10
-5
+	INPUT
+	coins = {1,2}
+	n = 5
+	OUTPUT
+	2 coins are enough to give change.
+	
+	INPUT
+	coins = {5,10,20}
+	n = 40
+	OUTPUT
+	2 coins are enough to give change.
 
 */
