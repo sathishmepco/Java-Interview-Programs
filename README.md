@@ -69,7 +69,7 @@
 14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingSorting.java)
 15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](InterviewPrograms/src/com/java/array/FindMostFrequentUsingHashtable.java)
 16. Write a java program to ***Rotate the Given Array*** d times. [[Solution]](InterviewPrograms/src/com/java/array/ArrayRotation.java)
-17. Find the pair of elements(X+Y) in the array whoose sum is equal to given number Z. [[Solution]](InterviewPrograms/src/com/java/array/FindPairForZ.java)
+17. Find the pair of elements(X+Y) in the array whose sum is equal to given number Z. [[Solution]](InterviewPrograms/src/com/java/array/FindPairForZ.java)
 
 # String Based Programs
 1.  Write a java program to check Given String is Palindrome or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Palindrome.java)
