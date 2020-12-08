@@ -114,7 +114,7 @@
 4. Write a Java Program to ***Multiply Two Matrices.*** [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixMultiplication.java)
 5. Write a Java Program to print the ***Matrix Spiral form***. [[Solution]](InterviewPrograms/src/com/java/matrix/MatrixInSpiralForm.java)
 6. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](InterviewPrograms/src/com/java/matrix/IdentityMatrix.java)
-7. Check whether the Given Matrix is ***Sparx Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
+7. Check whether the Given Matrix is ***Sparse Matrix or NOT*** [[Solution]](InterviewPrograms/src/com/java/matrix/SparseMatrix.java)
 8. Display the ***Lower Triangular Matrix*** [[Solution]](InterviewPrograms/src/com/java/matrix/LowerTriangularMatrix.java)
 9. Display the ***Upper Triangular Matrix*** [[Solution]](InterviewPrograms/src/com/java/matrix/UpperTriangularMatrix.java)
 10. Find sum of each row and each column of the Matrix. [[Solution]](InterviewPrograms/src/com/java/matrix/RowSumColumnSum.java)
