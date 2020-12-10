@@ -19,6 +19,7 @@ import java.util.Arrays;
  * Worst Case : O(n^2)
  * Best Case : O(n)
  */
+
 public class InsertionSort {
 	public static void main(String[] args) {
 		int array[] ={3,60,35,2,45,320,5};

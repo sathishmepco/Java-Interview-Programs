@@ -2,7 +2,7 @@ package com.java.convertor;
 
 /*
  * Decimal to Octal Converter
- *
+ * ---------------------------
  * Octal Number System
  * The octal numeral system, or oct for short, 
  * is the base-8 number system, and uses 
@@ -48,6 +48,7 @@ package com.java.convertor;
  * (reminders from reverse order)					
  * 
  */
+
 public class DecimalToOctal {
 	public static void main(String[] args) {
 		int decimal = 372;

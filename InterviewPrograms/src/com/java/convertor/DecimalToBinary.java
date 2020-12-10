@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 	Decimal To Binary
- * 
+ * --------------------
  * Write a Java Program to convert Decimal
  * value to Binary Value
  * 
@@ -46,13 +46,12 @@ import java.util.Scanner;
  *  now n is 0, so stop the iteration
  *  finally binary value is 101
  */
-public class DecimalToBinary {
-	
+ 
+public class DecimalToBinary {	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the decimal value : ");
-		String input = scanner.nextLine();
-		int decimal = Integer.parseInt(input);
+		int decimal = scanner.nextInt();
 		long binary = 0;
 		int i = 0;
 		

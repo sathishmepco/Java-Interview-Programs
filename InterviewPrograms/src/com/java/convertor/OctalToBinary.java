@@ -2,7 +2,7 @@ package com.java.convertor;
 
 /*
  * 	Octal To Binary
- * 
+ * -----------------
  * Octal Number System
  * The octal numeral system, or oct for short, 
  * is the base-8 number system, and uses 
@@ -53,6 +53,7 @@ package com.java.convertor;
  *   Binary Number - 111101011
  *   
  */
+
 public class OctalToBinary {
 	public static void main(String[] args) {
 		int octal = 20;

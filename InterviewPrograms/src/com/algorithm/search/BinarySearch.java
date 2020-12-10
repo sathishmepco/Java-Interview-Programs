@@ -22,6 +22,7 @@ package com.algorithm.search;
  * 
  * This search is faster than linear search.
  */
+
 public class BinarySearch {
 	public static void main(String[] args) {
 		int array[] = { 10, 20, 30, 40, 50 };

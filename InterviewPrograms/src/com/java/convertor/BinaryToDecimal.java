@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  *	Binary To Decimal
- *
+ * --------------------
  * Write a Java Program to convert Binary value
  * to Decimal value
  * 
@@ -47,12 +47,12 @@ import java.util.Scanner;
  * decimal value is 7
  * 
  */
+ 
 public class BinaryToDecimal {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the binary number : ");
-		String input = scanner.nextLine();
-		int binary = Integer.parseInt(input);
+		int binary = scanner.nextInt();
 		int decimal = 0;
 		int digitCount = 0;
 		

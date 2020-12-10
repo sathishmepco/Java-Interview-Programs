@@ -16,6 +16,7 @@ package com.algorithm.search;
  * Worst Case 	O(n)
  * Best Case 	O(1)
  */
+
 public class LinearSearch {
 	public static void main(String[] args) {
 		int array[] ={3,60,35,2,45,320,5};

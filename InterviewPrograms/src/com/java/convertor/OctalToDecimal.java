@@ -2,7 +2,7 @@ package com.java.convertor;
 
 /*
  * Octal To Decimal Conversion
- * 
+ * ----------------------------
  * Octal Number System
  * The octal numeral system, or oct for short, 
  * is the base-8 number system, and uses 

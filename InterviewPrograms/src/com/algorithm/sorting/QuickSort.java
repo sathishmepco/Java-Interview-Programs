@@ -22,6 +22,7 @@ import java.util.Arrays;
  * Best Case 	: O(n*log(n))
  * 
  */
+
 public class QuickSort {
 	public static void main(String[] args) {
 		int array[] = {90,23,101,45,65,23,67,89,34,23};
