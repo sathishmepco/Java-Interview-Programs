@@ -91,8 +91,8 @@
 2. Convert Binary Number to Decimal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/BinaryToDecimal.java)
 3. Convert Decimal Number to Octal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/DecimalToOctal.java)
 4. Convert Octal Number to Decimal Number. [[Solution]](InterviewPrograms/src/com/java/convertor/OctalToDecimal.java)
-5. Convert Hexadecimal to Octal.
-6. Convert Octal to HexaDecimal.
+5. Convert Decimal to Hexadecimal. [[Solution]](InterviewPrograms/src/com/java/convertor/DecimalToHexadecimal.java)
+6. Convert Hexadecimal to Decimal. [[Solution]](InterviewPrograms/src/com/java/convertor/HexaToDecimal.java)
 7. Convert Octal to Binary Number. [[Solution]](InterviewPrograms/src/com/java/convertor/OctalToBinary.java)
 8. Convert Binary Number to Octal. [[Solution]](InterviewPrograms/src/com/java/convertor/BinaryToOctal.java)
 
