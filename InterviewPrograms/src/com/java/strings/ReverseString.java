@@ -4,12 +4,25 @@ import java.util.Scanner;
 
 /*
  * Reverse the String without using InBuild Functions
+ * --------------------------------------------------
  * Say given String :: hello
  * Reversed String :: olleh
  * 
  * Say given String :: good
  * Reversed String :: doog
+ * 
+ * Steps::
+ * -------
+ * - get the input string from the user
+ * - convert the string into char array
+ * - initiate two pointer say 
+ * i = 0, and j = length(string) - 1
+ * - swap chars at ith and jth place
+ * - then do i++, j--
+ * - continue the above steps str_len / 2 times 
+ *  
  */
+
 public class ReverseString {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -28,10 +41,7 @@ public class ReverseString {
 			charArray[i] = charArray[j];
 			charArray[j] = temp;
 		}
-		String output = "";
-		for(char c : charArray)
-			output += c;
-		return output;
+		return new String(charArray);
 	}
 }
 /*
