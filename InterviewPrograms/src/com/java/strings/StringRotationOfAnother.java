@@ -3,17 +3,21 @@ package com.java.strings;
 import java.util.Scanner;
 
 /*
- * Check Given String is Rotation of Another String 
+ * Check Given String is Rotation of Another String
+ * -------------------------------------------------
+ *  
  * Say String 1 : abcd
  * Say String 2 : bcda
  * String 2 is rotation of string 1
- * Rotation means order should be maintained, same set of characters forming another 
- * string without changing its order ( like b follows a, d follows c)
+ * 
+ * Rotation means order should be maintained, 
+ * same set of characters forming another string 
+ * without changing its order ( like b follows a, d follows c)
+ *
  */
+
 public class StringRotationOfAnother {
-
 	public static void main(String[] args) {
-
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the string 1 ::");
 		String str1 = scanner.nextLine().trim();
@@ -23,7 +27,8 @@ public class StringRotationOfAnother {
 		if(checkStringRotation(str1, str2))
 			System.out.println("String 2 is rotation of String 1");
 		else
-			System.out.println("Both strings are matched by rotation.");
+			System.out.println("String 2 is NOT rotation of String 1");
+		scanner.close();
 	}
 	
 	private static boolean checkStringRotation(String str1,String str2){
@@ -32,7 +37,8 @@ public class StringRotationOfAnother {
 		if(str1.length() != str2.length())
 			return false;
 		
-		//add string 1 with string 1 itself, it helps to identify its rotation
+		//add string 1 with string 1 itself
+		//it helps to identify its rotation
 		str1 = str1 + str1;
 		
 		if(str1.contains(str2))
@@ -55,6 +61,6 @@ public class StringRotationOfAnother {
 
 	Enter the string 1 :: java
 	Enter the string 2 :: jaav
-	Both strings are matched by rotation.
+	String 2 is NOT rotation of String 1
 
 */
