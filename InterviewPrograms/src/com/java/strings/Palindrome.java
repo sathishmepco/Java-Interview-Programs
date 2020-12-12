@@ -1,24 +1,31 @@
 package com.java.strings;
 
-import java.util.Scanner;
-
 /*
- * Palindrome
- * A String is a palindrome if it is remain unchanged even when it is reversed.
- * A String is a palindrome if it equals to the reverse of the string 
- * example words are :: malayalam, radar, madam, civic, level, racecar, refer
+ * Palindrome Check
+ * -----------------
+ * A String is a palindrome,
+ * if it is remain unchanged even when it is reversed.
+ * 
+ * A String is a palindrome,
+ * if it equals to the reverse of the string
+ *  
+ * example words are :: 
+ * malayalam, radar, madam, civic, level, racecar, refer
  */
+
 public class Palindrome {
-	
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter any String to check Palindrome or not :: ");
-		String str = scanner.nextLine().trim();
-		
-		if( checkPalindrome(str) )
-			System.out.println("The Given String \""+str+"\" is a Palindrome");
+		String word = "malayalam";
+//		String word = "radar";
+//		String word = "madam";
+//		String word = "sathish";
+//		String word = "java";
+
+		System.out.println("The Given String \""+word+"\"");
+		if( checkPalindrome(word) )
+			System.out.println("Yes, it is a Palindrome");
 		else
-			System.out.println("The Given String \""+str+"\" is NOT a Palindrome");
+			System.out.println("No, it is NOT a Palindrome");
 	}
 	
 	private static boolean checkPalindrome(String str){
@@ -40,19 +47,18 @@ public class Palindrome {
 
 	OUTPUT
 	
-	Enter any String to check Palindrome or not :: malayalam
-	The Given String "malayalam" is a Palindrome
+	The Given String "malayalam"
+	Yes, it is a Palindrome
 	
-	Enter any String to check Palindrome or not :: radar
-	The Given String "radar" is a Palindrome
+	The Given String "radar"
+	Yes, it is a Palindrome
 
-	Enter any String to check Palindrome or not :: madam
-	The Given String "madam" is a Palindrome
+	The Given String "madam"
+	Yes, it is a Palindrome
 	
-	Enter any String to check Palindrome or not :: sathish
-	The Given String "sathish" is NOT a Palindrome
-	
-	Enter any String to check Palindrome or not :: java
-	The Given String "java" is NOT a Palindrome
+	The Given String "sathish"
+	No, it is NOT a Palindrome
 
+	The Given String "java"
+	No, it is NOT a Palindrome
 */
