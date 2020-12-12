@@ -28,7 +28,7 @@ package com.java.strings;
  * 
  * Words without vowels are
  * sky, spy, try, fly, lynch, myth, dry, why, sync, shy, ply, 
- * by, cry, crypt, fry, gym, psych, 
+ * by, cry, crypt, fry, gym, psych, spy
  */
 
 public class CountVowels {
