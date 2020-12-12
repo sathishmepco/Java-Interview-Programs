@@ -26,7 +26,7 @@ package com.java.convertor;
  * - because hexadecimal digits contains alphabets also
  * 	{0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F}
  * - multiply the numeric value with power of 16 to pow variable
- * - add the above result with
+ * - add the above result with decimal variable
  * - increment the pow variable
  * - continue all the above steps for all the digits of hex
  * - read the digits from the reverse direction

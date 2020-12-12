@@ -43,7 +43,6 @@ package com.java.convertor;
  * decimal = 1 * 64 + 4 * 8 + 4 * 1
  * decimal = 64 + 32 + 4
  * decimal = 100
- * 
  */
 
 public class OctalToDecimal {
