@@ -6,9 +6,8 @@ import java.util.Set;
 
 /*
  * 	Most Repeated Character
- * 
- * Write a Java Program to find Most
- * repeated character.
+ * ------------------------
+ * Write a Java Program to find Most repeated character.
  * 
  * solution:
  * Use Hashmap to store the occurrences of the
@@ -22,6 +21,7 @@ import java.util.Set;
  * So "m" is the most repeated char
  * 
  */
+
 public class MostRepeatedChar {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -4,8 +4,10 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /*
- * Check the Given 2 strings are Anagram to each other or NOT
- * Anagram
+ * Check 2 strings are Anagram to each other or NOT
+ * ------------------------------------------------
+ * Anagram ::
+ * -----------
  * Two Strings are called as Anagrams if they contain same set of 
  * characters but in different order
  * 

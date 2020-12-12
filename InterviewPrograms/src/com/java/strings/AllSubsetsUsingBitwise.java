@@ -3,7 +3,8 @@ package com.java.strings;
 import java.util.Scanner;
 
 /*
- * Find All Subsets
+ * Find All Subsets using Bitwise Approach
+ * ---------------------------------------
  * 
  * The subset of a string is the character 
  * or the group of characters that are present 

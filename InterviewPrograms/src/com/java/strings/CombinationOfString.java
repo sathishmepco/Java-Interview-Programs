@@ -3,9 +3,10 @@ package com.java.strings;
 import java.util.Scanner;
 
 /*
- * 		Combination
+ * Combination
+ * ------------
  * 
- * 	A combination is a selection of all or part of 
+ * A combination is a selection of all or part of 
  * a set of objects, without regard to the order in 
  * which objects are selected.
  *
@@ -19,17 +20,17 @@ import java.util.Scanner;
  * When the order doesn't matter, it is a Combination.
  * When the order does matter it is a Permutation.
  * 
- * Order does matter	Order doesn't matter
+ * Order does matter
 		1 2 3
 		1 3 2
 		2 1 3
-		2 3 1				1 2 3
+		2 3 1		
 		3 1 2
 		3 2 1	
 
  */
+
 public class CombinationOfString {
-	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter any String : ");

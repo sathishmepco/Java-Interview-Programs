@@ -3,7 +3,8 @@ package com.java.strings;
 import java.util.Scanner;
 
 /*
- * Find All Subsets
+ * Find All Subsets using Recursion approach
+ * -----------------------------------------
  * 
  * The subset of a string is the character 
  * or the group of characters that are present 
@@ -22,6 +23,7 @@ import java.util.Scanner;
  * { c }
  *	
  */
+
 public class AllSubsetsUsingRecursion {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

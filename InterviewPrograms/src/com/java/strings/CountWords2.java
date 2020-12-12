@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * Count the number of Words using split method
- *
+ * ---------------------------------------------
  * Write the java program to count the number of
  * words in the given string using split method
  * 
@@ -17,6 +17,7 @@ import java.util.Scanner;
  * no of words : 1
  *  
  */
+
 public class CountWords2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -3,14 +3,17 @@ package com.java.strings;
 import java.util.Scanner;
 
 /*
- * Permutation of Given String
+ * Permutation
+ * ------------
+ * 
  * A permutation, also called an “arrangement number” 
  * or “order,” is a rearrangement of the elements of 
  * an ordered list S into a one-to-one correspondence 
  * with S itself. A string of length n has n! permutation.
  *
- * Permutation of String abc are
+ * Permutation of String "abc" are
  * abc, acb, bac, bca, cab, cba
+ * 
  */
 public class PermutationOfString {
 	
