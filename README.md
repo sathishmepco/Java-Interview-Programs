@@ -76,7 +76,7 @@
 2.  How to Swap two Strings without using third (temporary) variable? [[Solution]](InterviewPrograms/src/com/java/strings/SwapTwoStrings.java)
 3.  Write a java program to reverse a String without using in-build function. [[Solution]](InterviewPrograms/src/com/java/strings/ReverseString.java)
 4.  Write a java program to count the number of words in a given String. [[Solution]](InterviewPrograms/src/com/java/strings/CountWords.java)
-5.  Write a java program to ***count the number of vowels*** in the given string.
+5.  Write a java program to ***count the number of vowels*** in the given string. [[Solution]](InterviewPrograms/src/com/java/strings/CountVowels.java)
 6.  Check Given String is Rotation of Another String. [[Solution]](InterviewPrograms/src/com/java/strings/StringRotationOfAnother.java)
 7.  Write a Java Program to check two strings are Anagram to each other or NOT. [[Solution]](InterviewPrograms/src/com/java/strings/Anagram.java)
 8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](InterviewPrograms/src/com/java/strings/MostRepeatedChar.java)
