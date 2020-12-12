@@ -25,6 +25,10 @@ package com.java.strings;
  * say the string is "why"
  * there are no Vowels in this word
  * Count is 0
+ * 
+ * Words without vowels are
+ * sky, spy, try, fly, lynch, myth, dry, why, sync, shy, ply, 
+ * by, cry, crypt, fry, gym, psych, 
  */
 
 public class CountVowels {
