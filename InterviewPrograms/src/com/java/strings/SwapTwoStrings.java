@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /*
  * Swap Two Strings without using third variable
+ * ---------------------------------------------
  * Say String1 is : good
  * Say String2 is : bad
  * The output should print string1 is bad and string2 is good
@@ -11,7 +12,6 @@ import java.util.Scanner;
  */
 
 public class SwapTwoStrings {
-	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the String 1 : ");
@@ -23,7 +23,7 @@ public class SwapTwoStrings {
 		str2 = str1.substring(0,str1.length()-str2.length());
 		str1 = str1.substring(str2.length());
 		
-		System.out.println("After swapping--");
+		System.out.println("After swapping ::");
 		System.out.println("String 1 is : "+str1);
 		System.out.println("String 2 is : "+str2);
 		scanner.close();
@@ -33,13 +33,13 @@ public class SwapTwoStrings {
 	OUTPUT
 	Enter the String 1 : good
 	Enter the String 2 : bad
-	After swapping--
+	After swapping::
 	String 1 is : bad
 	String 2 is : good
 	
 	Enter the String 1 : hello
 	Enter the String 2 : world
-	After swapping--
+	After swapping::
 	String 1 is : world
 	String 2 is : hello
 */
