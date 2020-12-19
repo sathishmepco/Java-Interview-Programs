@@ -28,7 +28,7 @@ public class PermutationOfString {
 	public static void permutation(String p,String s){
 		if(s.length() == 0)
 			System.out.println(p);
-		for(int i=0;i<s.length();i++){
+		for(int i=0; i < s.length(); i++){
 			permutation(p+s.charAt(i), s.substring(0, i)+s.substring(i+1));
 		}
 	}

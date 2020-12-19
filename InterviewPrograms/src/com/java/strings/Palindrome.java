@@ -37,7 +37,7 @@ public class Palindrome {
 		//then compare index 1 with index (n-2)
 		//do this comparison for half of the string,
 		//if is palindrome 2nd half the string is mirror(reverse) of the 1st half 
-		for(int i=0;i<str.length()/2;i++)
+		for(int i=0; i < str.length()/2; i++)
 			if(str.charAt(i) != str.charAt(strLen-i-1))
 				return false;
 		return true;
