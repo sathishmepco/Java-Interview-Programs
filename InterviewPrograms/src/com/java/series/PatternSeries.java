@@ -11,6 +11,7 @@ import java.util.Scanner;
  * and append 3 for every iteration
  * 
  */
+
 public class PatternSeries {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -45,5 +46,5 @@ public class PatternSeries {
 	Enter the N value for the series : 10
 	3 33 333 3333 33333 333333 3333333 33333333 333333333 -961633963
 	Using String approach: 
-	3 33 333 3333 33333 333333 3333333 33333333 333333333 -961633963
+	3 33 333 3333 33333 333333 3333333 33333333 333333333 3333333333 
 */

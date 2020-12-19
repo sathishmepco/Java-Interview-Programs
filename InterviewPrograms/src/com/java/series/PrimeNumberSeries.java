@@ -2,17 +2,18 @@ package com.java.series;
 
 /*
  * Prime Number Series
- * 
+ * --------------------
  * 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 ....
  * 
  * Prime Number
- * 
+ * ------------
  * A prime number is a natural number greater than 1 
  * that is not a product of two smaller natural numbers. 
  * 
  * A natural number thats divisible only by itself and 1.
  *  
  */
+
 public class PrimeNumberSeries {
 	public static void main(String[] args) {
 		int n = 100;

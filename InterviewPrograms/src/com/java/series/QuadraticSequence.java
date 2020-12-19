@@ -2,7 +2,7 @@ package com.java.series;
 
 /*
  * Quadratic Sequence
- * 
+ * ------------------
  * A quadratic sequence is a sequence of numbers 
  * in which the second difference between 
  * any two consecutive terms is constant.
@@ -24,6 +24,15 @@ package com.java.series;
  * 
  * The Series is 
  * 1, 2, 4, 7, 11, 16, 22
+ * 
+ *  for values i = 1 to n
+ *  1 = ( (1 * (1-1) ) / 2) + 1 = 1 
+ *  2 = ( (2 * (2-1) ) / 2) + 1 = 2
+ *  3 = ( (3 * (3-1) ) / 2) + 1 = 4
+ *  4 = ( (4 * (4-1) ) / 2) + 1 = 7
+ *  5 = ( (5 * (5-1) ) / 2) + 1 = 11
+ *  6 = ( (6 * (6-1) ) / 2) + 1 = 16
+ *  
  */
 public class QuadraticSequence {
 	public static void main(String[] args) {

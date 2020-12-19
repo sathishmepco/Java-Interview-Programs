@@ -2,6 +2,7 @@ package com.java.series;
 
 /*
  * Triangular Number Series
+ * ------------------------
  * 
  * A triangular number or triangle number counts 
  * objects arranged in an Equilateral triangle 
@@ -48,6 +49,7 @@ package com.java.series;
  * ith term = (i*(i+1)) / 2
  * 
  */
+
 public class TriangularSeries {
 	public static void main(String[] args) {
 		int terms = 15;

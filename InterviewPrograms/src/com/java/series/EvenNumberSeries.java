@@ -3,8 +3,8 @@ package com.java.series;
 import java.util.Scanner;
 
 /*
- * Print the EVEN number series
- * 
+ * EVEN Number Series
+ * ------------------
  * 0 2 4 6 8 10 12 14 ....
  * 
  * In the for loop, either use i++, check i is even and print

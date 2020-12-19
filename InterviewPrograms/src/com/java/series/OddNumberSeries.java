@@ -3,14 +3,15 @@ package com.java.series;
 import java.util.Scanner;
 
 /*
- * Print the ODD number series
- * 
+ * ODD Number Series
+ * ------------------
  * 1 3 5 7 9 11 13 15 17 19 .....
  * 
  * In the for loop, either use i++, check i is odd and print
  * Else in the for loop use i+=2 then print i value
  * i starts with value 1
  */
+
 public class OddNumberSeries {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

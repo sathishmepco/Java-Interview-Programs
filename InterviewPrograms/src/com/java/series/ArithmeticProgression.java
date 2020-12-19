@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  *  Arithmetic Progression
- *  
+ *  -----------------------
  *  In mathematics, an arithmetic progression (AP) 
  *  or arithmetic sequence is a sequence of 
  *  numbers such that the difference between the 

@@ -3,7 +3,7 @@ package com.java.series;
 /*
  * Print the following Series
  * 2 9 28 65 126 217 344
- * 
+ * -------------------------
  * for i-th element
  * (i^3)+1
  * 
@@ -16,6 +16,7 @@ package com.java.series;
  * i = 7 => 7^3+1 = 343 + 1 = 344
  * 
  */
+
 public class Series1 {
 	public static void main(String[] args) {
 		int n = 10;

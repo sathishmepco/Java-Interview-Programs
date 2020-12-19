@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * 	Write Java program to generate the following Series
  * 
- * 	1 2 3 7 11 16 22 29
+ * 	1 2 4 7 11 16 22 29
  * 
  * 	Solution is 
  *  i-th value = ( (i * (i-1) ) / 2) + 1

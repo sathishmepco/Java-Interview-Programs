@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  *  Geometric Progression
- *  
+ *  ---------------------
  *  In mathematics, a geometric progression, also known 
  *  as a geometric sequence, is a sequence of numbers 
  *  where each term after the first is found by multiplying 
@@ -32,6 +32,7 @@ import java.util.Scanner;
  *  9 = 256  * 2 = 512
  *  10 = 512 * 2 = 1024
  */
+
 public class GeometricProgression {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
