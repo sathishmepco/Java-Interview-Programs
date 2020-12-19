@@ -120,15 +120,15 @@
 10. Find sum of each row and each column of the Matrix. [[Solution]](InterviewPrograms/src/com/java/matrix/RowSumColumnSum.java)
 
 # Print the Series
-1. Write the Java Program to print the following series (EVEN number series) [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
+1. Write the Java Program to print the following series ***EVEN number Series*** [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
 ```
 2 4 6 8 10 12 14 16 .....
 ```
-2. Write the Java Program to print the following series (ODD number series) [[Solution]](InterviewPrograms/src/com/java/series/OddNumberSeries.java)
+2. Write the Java Program to print the following series ***ODD number Series*** [[Solution]](InterviewPrograms/src/com/java/series/OddNumberSeries.java)
 ```
 1 3 5 7 9 11 13 ....
 ```
-3. Write the Java Program to print the following series (Pattern Series) [[Solution]](InterviewPrograms/src/com/java/series/PatternSeries.java)
+3. Write the Java Program to print the following series ***Pattern Series*** [[Solution]](InterviewPrograms/src/com/java/series/PatternSeries.java)
 ```
 3, 33, 333, 3333, 33333, 333333 ....
 ```
@@ -144,23 +144,23 @@
 ```
 2 9 28 65 126 217 344
 ```
-7. Write the Java Program to print the following series (Geometric progression) [[Solution]](InterviewPrograms/src/com/java/series/GeometricProgression.java)
+7. Write the Java Program to print the following series ***Geometric Progression*** [[Solution]](InterviewPrograms/src/com/java/series/GeometricProgression.java)
 ```
 1 2 4 8 16 32 64 128 256 512 1024 ......
 ```
-8. Write the Java Program to print the following series (Arithmetic progression)
+8. Write the Java Program to print the following series ***Arithmetic Progression***
 ```
 0 5 10 15 20 25 30 35 ....
 ```
-9. Write the Java Program to print the following series (Fibonacci Series)
+9. Write the Java Program to print the following series ***Fibonacci Series*** [[Solution]](InterviewPrograms/src/com/java/series/FibonacciSeries.java)
 ```
 1 1 2 3 5 8 13 21 34 55 89 .....
 ```
-10. Write the Java Program to print the following series (Prime Number Series) [[Solution]](InterviewPrograms/src/com/java/series/PrimeNumberSeries.java)
+10. Write the Java Program to print the following series ***Prime Number Series*** [[Solution]](InterviewPrograms/src/com/java/series/PrimeNumberSeries.java)
 ```
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
 ```
-11. Write the Java Program to print the following series (Triangular Number Series) [[Solution]](InterviewPrograms/src/com/java/series/TriangularSeries.java)
+11. Write the Java Program to print the following series ***Triangular Number Series*** [[Solution]](InterviewPrograms/src/com/java/series/TriangularSeries.java)
 ```
 1 3 6 10 15 21 28 36 45 55 .....
 ```
