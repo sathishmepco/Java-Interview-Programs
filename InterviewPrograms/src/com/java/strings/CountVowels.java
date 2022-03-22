@@ -31,29 +31,73 @@ package com.java.strings;
  * by, cry, crypt, fry, gym, psych, spy
  */
 
-public class CountVowels {
+public class CountVowels extends countVow {
 	public static void main(String[] args) {
 //		String line = "Java Interview Programs";
 //		String line = "Hello World!";
 		String line = "Rhythm";
-		int count = 0;
+		
 		
 		System.out.println("Given String is :"+line);
 		line = line.toLowerCase();
-		for(char ch : line.toCharArray()){
-			switch (ch) {
-			case 'a':
-			case 'e':
-			case 'i':
-			case 'o':
-			case 'u':
-				count++;
-				break;
-			default:
-				break;
-			}
-		}
+	
+		countVow c = new CountVowels();
+		c.count(line);	
 		System.out.println("Number of Vowels are :"+count);
+	}
+
+	@Override
+	void count(String line) {
+		// TODO Auto-generated method stub
+		
+	}
+}
+
+//extract class
+abstract class countVow 
+{
+		static int count = 0;
+		abstract  void count(String line);
+	
+}
+class a extends countVow
+{
+	@Override
+	public  void count(String line)
+	{
+		count++;
+	}
+}
+class e extends countVow
+{
+	@Override
+	public  void count(String line)
+	{
+		count++;
+	}
+}
+class i extends countVow
+{
+	@Override
+	public  void count(String line)
+	{
+		count++;
+	}
+}
+class o extends countVow
+{
+	@Override
+	public  void count(String line)
+	{
+		count++;
+	}
+}
+class u extends countVow
+{
+	@Override
+	public  void count(String line)
+	{
+		count++;
 	}
 }
 /*

@@ -14,25 +14,33 @@ import java.util.Base64;
  */
 public class AESEncryption {
 
-	public static void main(String[] args) {
-        final String strToEncrypt = "My text to encrypt";
+	public static void main(String[] args) 
+	{
+		final String strToEncrypt = "My text to encrypt";
         final String strPssword = "f2fc2007-b24b-4ab5-b62f-8dba873d0341";
-        AESEncryption.setKey(strPssword);
-        AESEncryption.encrypt(strToEncrypt.trim());
+        encryptdecrypt.setKey(strPssword);
+		//encryptdecrypt is called from main funcation
+        encryptdecrypt.encrypt(strToEncrypt.trim());
         System.out.println("String to Encrypt: " + strToEncrypt); 
-        System.out.println("Encrypted: " + AESEncryption.getEncryptedString());
-        final String strToDecrypt =  AESEncryption.getEncryptedString();
-        AESEncryption.decrypt(strToDecrypt.trim());
+        System.out.println("Encrypted: " + encryptdecrypt.getEncryptedString());
+        final String strToDecrypt =  encryptdecrypt.getEncryptedString();
+        encryptdecrypt.decrypt(strToDecrypt.trim());
         System.out.println("String To Decrypt : " + strToDecrypt);
-        System.out.println("Decrypted : " + AESEncryption.getDecryptedString());
+        System.out.println("Decrypted : " + encryptdecrypt.getDecryptedString());
 	}
+}
 
+//class encryptdecrypt increases the readability of the code. So, it is extracted to another new class.
+//funcationality remains the same besides having refactoring
+class encryptdecrypt
+{
 	private static SecretKeySpec secretKey;
 	private static byte[] key;
 	private static String decryptedString;
 	private static String encryptedString;
 
-	public static void setKey(String myKey) {
+	public static void setKey(String myKey)
+	 {
 		MessageDigest sha = null;
 		try {
 			key = myKey.getBytes("UTF-8");
