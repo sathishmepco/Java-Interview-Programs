@@ -35,8 +35,8 @@ public class CountVowels extends countVow {
 	public static void main(String[] args) 
 	{
 //		String line = "Java Interview Programs";
-		String line = "Hello World!";
-		// String line = "Rhythm";
+		// String line = "Hello World!";
+		String line = "Rhythm";
 		System.out.println("Given String is :"+line);
 		line = line.toLowerCase();
 		countVow c = new CountVowels();
@@ -61,7 +61,7 @@ class a extends countVow
 	@Override
 	public  int count(String line)
 	{
-		return count++;
+		return count++;  // refactored with Replace conditional with polymorphism
 	}
 }
 class e extends countVow
@@ -69,7 +69,7 @@ class e extends countVow
 	@Override
 	public  int  count(String line)
 	{
-		return count++;
+		return count++;  // refactored with Replace conditional with polymorphism
 	}
 }
 class i extends countVow
@@ -77,7 +77,7 @@ class i extends countVow
 	@Override
 	public  int count(String line)
 	{
-		return count++;
+		return count++; // refactored with Replace conditional with polymorphism
 	}
 }
 class o extends countVow
@@ -85,7 +85,7 @@ class o extends countVow
 	@Override
 	public  int count(String line)
 	{
-		return count++;
+		return count++;  // refactored with Replace conditional with polymorphism
 	}
 }
 class u extends countVow
@@ -93,7 +93,7 @@ class u extends countVow
 	@Override
 	public  int count(String line)
 	{
-		return count++;
+		return count++;  // refactored with Replace conditional with polymorphism
 	}
 }
 /*
