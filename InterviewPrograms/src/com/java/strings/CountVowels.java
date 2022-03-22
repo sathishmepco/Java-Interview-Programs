@@ -32,24 +32,21 @@ package com.java.strings;
  */
 
 public class CountVowels extends countVow {
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 //		String line = "Java Interview Programs";
-//		String line = "Hello World!";
-		String line = "Rhythm";
-		
-		
+		String line = "Hello World!";
+		// String line = "Rhythm";
 		System.out.println("Given String is :"+line);
 		line = line.toLowerCase();
-	
 		countVow c = new CountVowels();
 		c.count(line);	
-		System.out.println("Number of Vowels are :"+count);
 	}
-
 	@Override
-	void count(String line) {
-		// TODO Auto-generated method stub
-		
+	int count(String line) 
+	{
+		System.out.println("Number of Vowels are :"+count);	
+		return 0;
 	}
 }
 
@@ -57,47 +54,46 @@ public class CountVowels extends countVow {
 abstract class countVow 
 {
 		static int count = 0;
-		abstract  void count(String line);
-	
+		abstract  int count(String line);
 }
 class a extends countVow
 {
 	@Override
-	public  void count(String line)
+	public  int count(String line)
 	{
-		count++;
+		return count++;
 	}
 }
 class e extends countVow
 {
 	@Override
-	public  void count(String line)
+	public  int  count(String line)
 	{
-		count++;
+		return count++;
 	}
 }
 class i extends countVow
 {
 	@Override
-	public  void count(String line)
+	public  int count(String line)
 	{
-		count++;
+		return count++;
 	}
 }
 class o extends countVow
 {
 	@Override
-	public  void count(String line)
+	public  int count(String line)
 	{
-		count++;
+		return count++;
 	}
 }
 class u extends countVow
 {
 	@Override
-	public  void count(String line)
+	public  int count(String line)
 	{
-		count++;
+		return count++;
 	}
 }
 /*
