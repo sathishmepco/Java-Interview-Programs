@@ -2,7 +2,8 @@ package com.cdac.collections.threadsafe;
 
 import java.util.ArrayList;
 
-public class EmployeeRunnable implements Runnable{
+public class EmployeeRunnable 
+{ 
 
 	ArrayList<String> names;
 	
@@ -10,9 +11,6 @@ public class EmployeeRunnable implements Runnable{
 		this.names = list;
 	}
 	
-	@Override
-	public void run() {
-		for(int i=0;i<100;i++)
-			names.add("Employee :: "+i);
-	}
+
 }
+//run method moved to MainProgram.java 
