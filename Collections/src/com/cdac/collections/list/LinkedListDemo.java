@@ -22,9 +22,9 @@ public class LinkedListDemo {
 		osList.addLast("WebOS");
 		
 		//GET ELEMENT
-		String firstElt = osList.getFirst();
-		String lastElt = osList.getLast();
-		String eltAtZero = osList.get(0);
+		String FirstElement = osList.getFirst();
+		String LastElement = osList.getLast();
+		String elementAtZero = osList.get(0);
 		
 		//GET ELEMENTS USING PEEK AND POLL
 		//PEEK MEANS RETRIEVES THE ELEMENTS BUT DOES NOT REMOVE THE ELEMENT
@@ -54,13 +54,13 @@ public class LinkedListDemo {
 		}		
 		
 		//Removes first Element
-		String elt = osList.remove();
+		String Element = osList.remove();
 		
 		//Removes element at given index
-		elt = osList.remove(2);
+		Element = osList.remove(2);
 		
 		//Removes First Element
-		elt = osList.removeFirst();
+		Element = osList.removeFirst();
 		
 		//Removes Last Element
 		osList.removeLast();
