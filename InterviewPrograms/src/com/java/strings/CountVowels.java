@@ -31,29 +31,69 @@ package com.java.strings;
  * by, cry, crypt, fry, gym, psych, spy
  */
 
-public class CountVowels {
-	public static void main(String[] args) {
+public class CountVowels extends countVow {
+	public static void main(String[] args) 
+	{
 //		String line = "Java Interview Programs";
-//		String line = "Hello World!";
+		// String line = "Hello World!";
 		String line = "Rhythm";
-		int count = 0;
-		
 		System.out.println("Given String is :"+line);
 		line = line.toLowerCase();
-		for(char ch : line.toCharArray()){
-			switch (ch) {
-			case 'a':
-			case 'e':
-			case 'i':
-			case 'o':
-			case 'u':
-				count++;
-				break;
-			default:
-				break;
-			}
-		}
-		System.out.println("Number of Vowels are :"+count);
+		countVow c = new CountVowels();
+		c.count(line);	
+	}
+	@Override
+	int count(String line) 
+	{
+		System.out.println("Number of Vowels are :"+count);	
+		return 0;
+	}
+}
+
+//extract class
+abstract class countVow 
+{
+		static int count = 0;
+		abstract  int count(String line);
+}
+class a extends countVow
+{
+	@Override
+	public  int count(String line)
+	{
+		return count++;  // refactored with Replace conditional with polymorphism
+	}
+}
+class e extends countVow
+{
+	@Override
+	public  int  count(String line)
+	{
+		return count++;  // refactored with Replace conditional with polymorphism
+	}
+}
+class i extends countVow
+{
+	@Override
+	public  int count(String line)
+	{
+		return count++; // refactored with Replace conditional with polymorphism
+	}
+}
+class o extends countVow
+{
+	@Override
+	public  int count(String line)
+	{
+		return count++;  // refactored with Replace conditional with polymorphism
+	}
+}
+class u extends countVow
+{
+	@Override
+	public  int count(String line)
+	{
+		return count++;  // refactored with Replace conditional with polymorphism
 	}
 }
 /*
